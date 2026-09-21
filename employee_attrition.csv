@@ -1,0 +1,1501 @@
+EmployeeID,Age,Department,JobRole,EducationField,MonthlyIncome,YearsAtCompany,YearsInCurrentRole,JobSatisfaction,WorkLifeBalance,JobInvolvement,OverTime,BusinessTravel,DistanceFromHome,NumCompaniesWorked,TrainingTimesLastYear,Attrition
+1,60,Sales,Sales Executive,Medical,3360,14,10,4,1,1,No,Rarely,7,9,2,Yes
+2,44,Sales,Software Engineer,Technical Degree,6926,10,7,1,4,4,Yes,Travel_Rarely,24,2,5,Yes
+3,23,Sales,Research Scientist,Human Resources,13083,1,1,2,2,4,Yes,Travel_Rarely,28,4,0,Yes
+4,33,Research & Development,Software Engineer,Technical Degree,5885,5,4,4,1,1,No,Rarely,27,9,3,No
+5,37,Sales,Accountant,Technical Degree,12498,13,13,3,2,3,Yes,Travel_Rarely,12,6,3,Yes
+6,24,Research & Development,Research Scientist,Life Sciences,6056,2,2,1,1,3,No,Rarely,18,3,0,Yes
+7,35,Human Resources,Accountant,Marketing,10933,9,8,2,1,2,No,Travel_Rarely,20,6,3,No
+8,29,Finance,Human Resources,Life Sciences,14706,2,1,1,4,2,Yes,Frequently,8,3,1,Yes
+9,27,IT,Accountant,Medical,13305,1,1,2,1,3,No,Travel_Rarely,18,9,3,No
+10,55,Sales,Software Engineer,Life Sciences,6797,29,3,2,3,4,Yes,Frequently,15,7,5,No
+11,44,Sales,Manager,Finance,11967,7,4,4,1,2,No,Frequently,15,4,1,No
+12,46,Research & Development,Laboratory Technician,Finance,7359,12,8,1,3,1,No,Rarely,1,8,6,Yes
+13,30,Sales,Human Resources,Finance,7963,0,0,4,4,4,Yes,Travel_Rarely,11,2,0,Yes
+14,29,Finance,Manager,Finance,16486,2,0,3,1,2,No,Travel_Rarely,7,9,0,No
+15,49,Human Resources,Accountant,Life Sciences,8778,8,7,4,2,1,Yes,Rarely,16,6,6,No
+16,45,Finance,Laboratory Technician,Human Resources,11496,2,1,3,3,1,Yes,Rarely,3,4,6,No
+17,35,Human Resources,Research Scientist,Finance,13382,0,0,1,2,3,No,Frequently,14,6,2,Yes
+18,30,Human Resources,Research Scientist,Human Resources,2706,2,2,4,3,1,Yes,Travel_Rarely,20,3,5,Yes
+19,58,IT,Manager,Medical,10074,6,4,3,3,1,No,Frequently,4,6,2,No
+20,43,Research & Development,Human Resources,Life Sciences,8415,1,1,1,2,1,No,Rarely,21,5,3,No
+21,49,Research & Development,Software Engineer,Technical Degree,16431,11,3,2,2,3,Yes,Travel_Rarely,26,6,3,Yes
+22,46,Finance,Manager,Marketing,13994,0,0,1,1,3,No,Travel_Rarely,30,8,3,No
+23,34,Sales,Software Engineer,Human Resources,8364,2,2,2,4,3,Yes,Travel_Rarely,9,4,0,No
+24,45,Human Resources,Sales Executive,Medical,4498,21,15,4,4,1,No,Frequently,20,0,5,No
+25,33,Human Resources,Human Resources,Life Sciences,6081,6,1,3,1,1,Yes,Travel_Rarely,17,7,0,No
+26,23,Human Resources,Accountant,Marketing,7237,1,1,3,1,4,Yes,Rarely,1,0,2,No
+27,23,IT,Accountant,Marketing,7672,1,1,4,2,4,Yes,Travel_Rarely,23,3,6,Yes
+28,32,Sales,Laboratory Technician,Life Sciences,13947,10,0,3,2,4,No,Rarely,5,3,1,No
+29,27,IT,Sales Executive,Technical Degree,9625,2,2,4,4,1,Yes,Travel_Rarely,9,5,4,No
+30,24,IT,Accountant,Finance,3159,2,2,2,3,3,Yes,Rarely,19,3,6,Yes
+31,54,IT,Research Scientist,Human Resources,4459,6,1,4,1,3,No,Travel_Rarely,28,8,0,No
+32,44,Research & Development,Human Resources,Marketing,8034,9,2,3,4,4,Yes,Travel_Rarely,26,8,3,No
+33,23,Human Resources,Manager,Medical,17732,1,1,4,1,1,No,Rarely,27,6,0,Yes
+34,56,Human Resources,Sales Executive,Medical,12374,15,15,3,4,4,Yes,Travel_Rarely,22,7,0,Yes
+35,45,Sales,Research Scientist,Marketing,15415,10,0,4,4,2,Yes,Rarely,8,3,5,Yes
+36,56,Research & Development,Laboratory Technician,Human Resources,13875,29,8,3,1,1,No,Rarely,18,1,1,Yes
+37,56,IT,Human Resources,Technical Degree,14483,28,8,4,1,4,No,Rarely,1,4,3,No
+38,29,Research & Development,Sales Executive,Technical Degree,15946,2,0,4,1,4,Yes,Travel_Rarely,12,2,5,Yes
+39,43,Finance,Manager,Finance,9393,5,5,1,3,2,Yes,Travel_Rarely,8,1,4,No
+40,51,Sales,Sales Executive,Marketing,17119,14,0,1,4,1,No,Travel_Rarely,16,2,3,No
+41,56,Sales,Research Scientist,Human Resources,16003,16,15,1,4,4,Yes,Rarely,30,4,5,Yes
+42,56,Finance,Research Scientist,Medical,16556,4,4,1,2,1,No,Frequently,3,0,3,No
+43,42,Sales,Manager,Finance,5475,0,0,4,3,4,Yes,Rarely,18,8,1,No
+44,52,Sales,Sales Executive,Technical Degree,9209,25,2,4,2,4,Yes,Rarely,18,5,6,No
+45,23,Research & Development,Accountant,Medical,10306,0,0,2,2,2,No,Rarely,17,7,0,Yes
+46,30,Finance,Laboratory Technician,Technical Degree,15033,6,4,2,3,2,No,Frequently,3,1,0,No
+47,45,IT,Software Engineer,Medical,11216,6,0,4,1,4,No,Rarely,1,7,5,No
+48,37,Sales,Human Resources,Marketing,13393,11,2,3,3,4,Yes,Travel_Rarely,2,1,6,Yes
+49,43,IT,Manager,Human Resources,6646,21,9,2,2,1,Yes,Rarely,20,9,5,Yes
+50,36,Research & Development,Sales Executive,Medical,15865,10,4,1,4,1,Yes,Travel_Rarely,28,4,6,Yes
+51,25,IT,Research Scientist,Life Sciences,7369,0,0,4,4,2,Yes,Travel_Rarely,15,2,6,Yes
+52,37,IT,Human Resources,Medical,15056,1,1,2,2,3,No,Frequently,17,7,6,No
+53,40,Human Resources,Research Scientist,Medical,14367,4,1,1,2,3,No,Frequently,9,4,0,No
+54,22,Human Resources,Manager,Life Sciences,13541,0,0,4,2,2,No,Rarely,16,8,4,Yes
+55,22,IT,Sales Executive,Medical,5843,0,0,1,3,4,Yes,Travel_Rarely,5,5,4,Yes
+56,24,Research & Development,Laboratory Technician,Marketing,5647,1,1,3,1,2,Yes,Rarely,25,4,6,Yes
+57,51,Finance,Accountant,Finance,16561,29,3,1,4,4,No,Travel_Rarely,26,9,4,No
+58,60,IT,Laboratory Technician,Marketing,12327,0,0,2,2,1,Yes,Rarely,23,9,1,Yes
+59,26,Sales,Software Engineer,Marketing,17959,1,1,3,2,2,Yes,Frequently,19,9,0,Yes
+60,26,Human Resources,Research Scientist,Technical Degree,7111,1,0,4,4,4,No,Travel_Rarely,27,3,3,Yes
+61,56,Sales,Sales Executive,Life Sciences,4927,0,0,1,1,3,No,Frequently,11,4,3,Yes
+62,24,Research & Development,Software Engineer,Finance,8036,1,0,4,1,1,No,Rarely,12,1,4,Yes
+63,56,Finance,Human Resources,Life Sciences,13466,16,9,4,1,2,Yes,Rarely,10,9,5,No
+64,55,Research & Development,Human Resources,Human Resources,10806,8,6,4,2,1,Yes,Frequently,18,7,3,No
+65,46,Finance,Research Scientist,Marketing,14040,24,3,2,1,1,Yes,Frequently,24,2,0,No
+66,56,Sales,Laboratory Technician,Medical,6579,3,1,1,3,4,Yes,Travel_Rarely,24,6,5,No
+67,53,Human Resources,Accountant,Finance,14824,11,0,3,1,3,No,Travel_Rarely,25,2,0,Yes
+68,51,Research & Development,Accountant,Technical Degree,16084,16,13,4,4,1,Yes,Rarely,22,2,0,Yes
+69,57,Human Resources,Accountant,Finance,2895,28,8,3,4,1,No,Travel_Rarely,7,3,2,No
+70,37,Human Resources,Research Scientist,Life Sciences,7480,4,2,4,1,4,Yes,Frequently,27,4,3,No
+71,44,Research & Development,Research Scientist,Marketing,3667,6,4,1,2,2,No,Frequently,7,9,4,No
+72,56,Research & Development,Research Scientist,Medical,7834,28,10,3,2,3,Yes,Travel_Rarely,12,8,1,No
+73,38,Human Resources,Accountant,Marketing,14016,5,5,1,4,2,Yes,Frequently,9,1,2,No
+74,23,Finance,Software Engineer,Life Sciences,4040,0,0,1,2,3,No,Rarely,8,0,5,No
+75,38,Human Resources,Research Scientist,Life Sciences,11202,6,0,1,4,4,No,Rarely,6,2,4,No
+76,60,Human Resources,Software Engineer,Human Resources,6686,9,9,3,3,2,No,Frequently,3,1,3,No
+77,41,Sales,Manager,Life Sciences,9119,7,4,3,1,3,Yes,Frequently,1,2,4,No
+78,49,Sales,Human Resources,Technical Degree,14977,24,14,4,1,1,Yes,Frequently,24,0,5,Yes
+79,27,Human Resources,Human Resources,Life Sciences,4605,3,0,4,1,1,No,Travel_Rarely,15,4,5,No
+80,42,Human Resources,Human Resources,Technical Degree,14990,4,3,3,3,4,No,Travel_Rarely,25,1,6,No
+81,35,Human Resources,Human Resources,Technical Degree,15954,0,0,1,2,2,Yes,Rarely,3,6,0,Yes
+82,32,Finance,Software Engineer,Human Resources,15823,9,7,2,4,4,Yes,Travel_Rarely,28,4,1,Yes
+83,49,IT,Accountant,Marketing,9319,25,7,2,4,2,Yes,Frequently,28,4,0,Yes
+84,57,IT,Human Resources,Technical Degree,6275,26,5,3,1,1,No,Frequently,1,4,3,No
+85,34,Research & Development,Human Resources,Medical,5279,12,12,2,3,1,No,Travel_Rarely,6,1,2,No
+86,26,Human Resources,Human Resources,Medical,4338,0,0,2,2,4,No,Rarely,30,1,2,Yes
+87,26,Research & Development,Accountant,Life Sciences,17978,0,0,2,1,2,Yes,Rarely,15,0,2,Yes
+88,42,Finance,Human Resources,Technical Degree,9949,16,12,1,2,1,Yes,Frequently,3,0,4,No
+89,27,IT,Research Scientist,Technical Degree,15263,0,0,1,3,1,No,Frequently,6,2,4,Yes
+90,44,Sales,Accountant,Medical,9640,20,4,2,2,3,Yes,Frequently,17,4,5,Yes
+91,30,IT,Manager,Medical,8497,0,0,3,1,1,Yes,Travel_Rarely,4,0,0,No
+92,53,Sales,Manager,Finance,12773,27,14,4,3,2,Yes,Frequently,26,1,5,No
+93,24,IT,Human Resources,Human Resources,14654,1,1,1,2,4,No,Frequently,5,8,0,No
+94,44,IT,Manager,Finance,13970,4,4,2,2,3,No,Rarely,19,6,5,No
+95,55,Finance,Laboratory Technician,Marketing,9449,17,1,2,2,3,Yes,Travel_Rarely,27,2,6,No
+96,55,IT,Manager,Technical Degree,3831,24,5,1,4,3,Yes,Frequently,28,6,1,Yes
+97,38,Human Resources,Research Scientist,Marketing,4680,3,1,4,1,2,No,Frequently,17,3,4,No
+98,55,Sales,Research Scientist,Technical Degree,10441,20,1,1,2,3,Yes,Rarely,11,2,6,No
+99,44,Research & Development,Sales Executive,Marketing,9850,15,14,3,2,4,No,Frequently,8,3,3,No
+100,46,Finance,Sales Executive,Technical Degree,13958,2,2,1,4,2,Yes,Frequently,29,9,2,No
+101,40,IT,Software Engineer,Technical Degree,10456,4,1,4,2,1,Yes,Travel_Rarely,22,4,5,Yes
+102,22,Human Resources,Laboratory Technician,Human Resources,17480,0,0,1,4,2,No,Frequently,14,1,0,No
+103,35,IT,Accountant,Medical,12445,12,10,1,2,1,Yes,Frequently,15,8,5,Yes
+104,51,Finance,Sales Executive,Finance,14894,15,12,1,2,4,No,Frequently,1,7,0,No
+105,56,Finance,Software Engineer,Medical,3776,19,14,3,3,4,Yes,Frequently,22,9,3,No
+106,44,IT,Sales Executive,Human Resources,4625,1,0,2,2,3,No,Travel_Rarely,24,2,6,No
+107,24,Sales,Software Engineer,Technical Degree,4146,2,1,3,3,4,No,Rarely,13,1,1,Yes
+108,59,Human Resources,Manager,Technical Degree,9382,18,14,4,1,3,No,Rarely,5,9,6,No
+109,38,Finance,Laboratory Technician,Life Sciences,16042,11,8,1,1,4,No,Frequently,25,3,1,No
+110,24,IT,Sales Executive,Finance,2732,0,0,2,3,4,No,Rarely,15,5,1,Yes
+111,29,Sales,Accountant,Medical,14699,0,0,4,3,2,Yes,Rarely,9,4,5,No
+112,47,IT,Research Scientist,Technical Degree,4261,23,10,1,2,1,Yes,Rarely,25,0,4,Yes
+113,43,IT,Research Scientist,Marketing,13016,5,5,3,4,4,No,Travel_Rarely,30,7,6,No
+114,30,Research & Development,Human Resources,Marketing,15546,2,2,3,4,1,Yes,Rarely,4,7,6,Yes
+115,27,Sales,Laboratory Technician,Finance,9989,3,3,3,4,3,No,Frequently,6,5,0,No
+116,51,IT,Software Engineer,Finance,5051,5,2,2,1,2,Yes,Rarely,15,7,1,No
+117,26,IT,Accountant,Life Sciences,8969,1,1,4,3,4,Yes,Travel_Rarely,1,3,0,Yes
+118,33,Finance,Software Engineer,Human Resources,15346,0,0,2,2,4,No,Rarely,6,4,5,No
+119,32,Sales,Accountant,Life Sciences,9488,10,2,1,2,2,No,Frequently,24,9,4,Yes
+120,44,Human Resources,Software Engineer,Medical,12365,11,1,1,4,2,No,Travel_Rarely,20,0,6,No
+121,58,IT,Software Engineer,Human Resources,13068,16,8,3,3,4,No,Travel_Rarely,6,6,2,No
+122,51,Finance,Manager,Medical,11810,16,4,2,4,4,No,Frequently,18,4,2,No
+123,30,Sales,Laboratory Technician,Technical Degree,5135,2,2,1,4,4,No,Rarely,22,7,2,No
+124,58,Finance,Laboratory Technician,Marketing,8913,27,13,3,1,1,Yes,Frequently,5,2,2,Yes
+125,35,Research & Development,Laboratory Technician,Marketing,10077,13,3,1,1,2,No,Frequently,25,1,6,No
+126,35,Human Resources,Human Resources,Medical,9443,2,0,2,1,3,Yes,Travel_Rarely,15,0,0,Yes
+127,38,Finance,Manager,Technical Degree,3748,14,6,2,2,1,Yes,Travel_Rarely,8,7,2,Yes
+128,60,Finance,Manager,Marketing,4470,5,5,3,3,3,Yes,Rarely,8,9,3,Yes
+129,36,Research & Development,Laboratory Technician,Human Resources,8242,12,0,4,2,3,No,Frequently,27,3,4,No
+130,59,Finance,Software Engineer,Finance,3620,28,4,3,3,1,No,Frequently,30,3,5,No
+131,23,Human Resources,Laboratory Technician,Finance,7112,0,0,2,1,2,Yes,Rarely,6,3,4,Yes
+132,45,Sales,Software Engineer,Medical,17783,23,14,1,4,1,Yes,Rarely,29,3,3,No
+133,23,Human Resources,Software Engineer,Medical,2594,0,0,3,4,4,No,Rarely,26,4,3,Yes
+134,32,Human Resources,Research Scientist,Finance,14017,9,7,2,2,4,No,Rarely,23,9,5,No
+135,33,Human Resources,Sales Executive,Marketing,12957,7,5,2,1,1,Yes,Travel_Rarely,15,7,3,No
+136,33,Research & Development,Software Engineer,Life Sciences,9647,3,3,4,1,4,No,Rarely,5,7,6,No
+137,49,Finance,Manager,Medical,14141,8,5,3,1,2,No,Frequently,8,8,5,No
+138,32,Human Resources,Accountant,Life Sciences,16218,0,0,2,1,1,No,Rarely,26,3,5,Yes
+139,44,Sales,Human Resources,Medical,5372,0,0,3,2,3,Yes,Rarely,19,7,6,No
+140,42,Human Resources,Sales Executive,Human Resources,14194,8,4,1,2,4,Yes,Rarely,25,4,1,No
+141,56,IT,Human Resources,Technical Degree,11266,19,8,2,3,2,Yes,Travel_Rarely,2,6,1,Yes
+142,48,Finance,Laboratory Technician,Human Resources,11109,26,0,4,3,3,No,Frequently,12,2,5,No
+143,45,IT,Software Engineer,Finance,14812,6,3,2,1,4,Yes,Rarely,1,0,4,Yes
+144,43,Sales,Research Scientist,Human Resources,5213,17,4,1,3,1,Yes,Rarely,20,8,0,Yes
+145,41,Sales,Manager,Human Resources,6201,7,0,3,1,4,No,Travel_Rarely,13,6,2,No
+146,40,Sales,Research Scientist,Marketing,14081,16,12,1,2,4,No,Travel_Rarely,8,2,1,No
+147,22,Finance,Sales Executive,Finance,17425,0,0,3,3,2,Yes,Frequently,2,5,3,Yes
+148,51,Research & Development,Manager,Medical,8297,18,14,4,1,4,Yes,Travel_Rarely,29,6,6,No
+149,24,Human Resources,Accountant,Life Sciences,15587,1,1,3,2,2,Yes,Rarely,28,0,6,Yes
+150,49,Human Resources,Human Resources,Life Sciences,12515,17,6,1,4,1,No,Frequently,25,6,2,No
+151,45,Human Resources,Software Engineer,Human Resources,16794,7,5,1,3,1,No,Frequently,3,2,0,No
+152,49,Finance,Sales Executive,Finance,5554,7,1,3,4,4,Yes,Frequently,14,7,5,No
+153,37,Human Resources,Sales Executive,Finance,7047,3,0,2,1,2,Yes,Rarely,23,1,6,No
+154,31,IT,Human Resources,Marketing,11466,0,0,3,1,3,Yes,Travel_Rarely,16,2,3,No
+155,50,Research & Development,Manager,Medical,17535,17,1,1,3,1,No,Frequently,20,9,6,No
+156,23,Finance,Software Engineer,Technical Degree,15494,0,0,3,4,4,No,Rarely,5,4,5,Yes
+157,51,Human Resources,Laboratory Technician,Marketing,15692,1,0,4,3,4,Yes,Rarely,26,5,3,Yes
+158,45,Finance,Laboratory Technician,Life Sciences,15380,9,7,3,2,3,No,Travel_Rarely,17,1,2,No
+159,38,Human Resources,Laboratory Technician,Technical Degree,5073,8,7,2,1,1,No,Rarely,7,8,5,No
+160,43,Sales,Software Engineer,Life Sciences,5041,3,1,2,1,1,No,Frequently,2,6,4,Yes
+161,32,Human Resources,Human Resources,Technical Degree,9481,1,1,1,2,4,No,Travel_Rarely,9,5,1,No
+162,38,Research & Development,Laboratory Technician,Technical Degree,8296,5,1,4,3,1,Yes,Frequently,10,5,4,No
+163,48,Finance,Sales Executive,Human Resources,10492,5,2,4,2,4,Yes,Travel_Rarely,13,8,4,No
+164,28,Research & Development,Laboratory Technician,Technical Degree,13645,4,0,2,1,4,Yes,Travel_Rarely,30,9,5,Yes
+165,23,Sales,Manager,Medical,5567,1,0,1,3,1,Yes,Travel_Rarely,4,2,1,Yes
+166,50,Human Resources,Human Resources,Technical Degree,10840,10,7,3,4,4,No,Frequently,17,6,2,No
+167,55,Research & Development,Manager,Medical,6650,14,7,2,2,1,Yes,Frequently,24,0,1,No
+168,57,IT,Software Engineer,Marketing,11442,19,2,3,4,3,Yes,Rarely,17,1,0,No
+169,47,Finance,Laboratory Technician,Marketing,10117,20,8,1,4,1,No,Rarely,1,8,4,No
+170,46,IT,Human Resources,Technical Degree,15850,2,2,2,1,4,No,Rarely,12,2,5,No
+171,59,Human Resources,Laboratory Technician,Marketing,9509,11,2,1,4,3,No,Frequently,27,0,4,No
+172,38,Research & Development,Human Resources,Technical Degree,2829,16,14,4,2,4,No,Rarely,24,2,6,Yes
+173,42,Finance,Software Engineer,Finance,13844,4,0,2,1,4,No,Frequently,15,9,0,No
+174,47,Research & Development,Manager,Human Resources,10738,9,6,1,3,2,Yes,Rarely,21,5,1,No
+175,28,Human Resources,Accountant,Life Sciences,14545,6,4,3,1,3,Yes,Frequently,16,7,1,No
+176,44,Finance,Sales Executive,Finance,4000,17,14,2,4,3,Yes,Frequently,3,1,2,No
+177,60,Sales,Manager,Human Resources,7892,13,7,3,4,4,No,Frequently,13,1,2,No
+178,58,Sales,Accountant,Human Resources,15982,7,1,3,3,4,No,Travel_Rarely,7,7,0,No
+179,25,Human Resources,Software Engineer,Life Sciences,7968,1,0,1,2,1,No,Travel_Rarely,16,9,3,Yes
+180,23,Research & Development,Software Engineer,Finance,11002,0,0,2,2,2,No,Rarely,27,6,4,Yes
+181,34,Sales,Accountant,Medical,16085,2,2,3,2,4,Yes,Frequently,29,0,4,No
+182,37,Sales,Sales Executive,Marketing,6011,11,8,2,2,1,No,Rarely,7,3,4,Yes
+183,22,Finance,Research Scientist,Technical Degree,6260,0,0,3,1,2,Yes,Travel_Rarely,24,1,3,Yes
+184,39,Research & Development,Research Scientist,Human Resources,16769,4,0,4,1,1,Yes,Rarely,14,8,6,No
+185,45,IT,Software Engineer,Human Resources,11655,11,10,2,1,1,Yes,Frequently,5,5,6,Yes
+186,45,Finance,Software Engineer,Marketing,10702,12,1,1,3,4,No,Frequently,4,7,3,No
+187,50,Finance,Laboratory Technician,Technical Degree,7929,20,2,1,2,2,Yes,Rarely,11,1,0,No
+188,47,IT,Laboratory Technician,Marketing,3436,16,9,3,4,2,No,Travel_Rarely,5,4,5,No
+189,44,Human Resources,Research Scientist,Life Sciences,5236,8,2,4,2,1,No,Frequently,29,9,2,Yes
+190,39,IT,Laboratory Technician,Marketing,12801,16,7,3,4,3,No,Travel_Rarely,6,7,4,Yes
+191,46,Finance,Laboratory Technician,Finance,13068,3,1,1,2,3,Yes,Travel_Rarely,9,7,2,No
+192,49,Sales,Human Resources,Medical,3718,24,1,4,2,1,No,Frequently,15,7,0,No
+193,26,Human Resources,Research Scientist,Marketing,12110,2,1,4,4,3,Yes,Travel_Rarely,6,7,2,No
+194,26,Research & Development,Software Engineer,Finance,7795,1,1,2,1,4,Yes,Travel_Rarely,16,4,4,Yes
+195,38,Finance,Sales Executive,Medical,7733,7,4,4,2,1,No,Travel_Rarely,19,9,2,Yes
+196,55,Human Resources,Laboratory Technician,Medical,8683,26,12,1,1,2,No,Rarely,24,2,3,Yes
+197,54,IT,Laboratory Technician,Marketing,17406,26,15,1,1,3,No,Rarely,13,8,4,No
+198,57,Finance,Accountant,Marketing,6786,26,5,4,3,1,No,Travel_Rarely,11,9,0,No
+199,52,Finance,Sales Executive,Finance,17370,9,9,4,3,1,Yes,Rarely,30,6,6,No
+200,39,Finance,Accountant,Technical Degree,4903,1,1,1,1,4,No,Rarely,7,1,4,Yes
+201,48,IT,Sales Executive,Finance,3636,8,0,4,3,2,No,Frequently,28,7,4,No
+202,56,Human Resources,Human Resources,Marketing,3507,5,2,2,3,2,No,Travel_Rarely,9,1,6,Yes
+203,49,Research & Development,Manager,Human Resources,3071,14,13,1,1,2,Yes,Travel_Rarely,4,3,3,Yes
+204,25,IT,Research Scientist,Technical Degree,15518,3,0,4,2,1,Yes,Travel_Rarely,10,5,0,No
+205,43,Human Resources,Software Engineer,Medical,7069,17,1,2,4,3,No,Rarely,29,3,2,Yes
+206,56,Sales,Laboratory Technician,Life Sciences,7543,28,11,3,1,3,No,Rarely,1,5,6,No
+207,36,IT,Research Scientist,Marketing,14691,2,2,2,3,2,No,Frequently,2,1,4,No
+208,25,IT,Manager,Finance,16788,2,0,1,3,3,Yes,Frequently,23,3,1,Yes
+209,35,Finance,Human Resources,Life Sciences,5655,5,2,3,3,1,No,Frequently,30,7,3,No
+210,50,Research & Development,Manager,Marketing,6616,14,4,3,4,2,No,Rarely,19,8,4,Yes
+211,24,Human Resources,Human Resources,Technical Degree,8126,0,0,2,4,2,No,Rarely,15,1,4,Yes
+212,56,Sales,Accountant,Finance,12547,16,8,4,4,2,No,Rarely,15,7,3,No
+213,46,IT,Sales Executive,Medical,8276,20,7,3,3,2,Yes,Frequently,18,3,6,No
+214,24,IT,Research Scientist,Medical,15136,0,0,4,4,2,Yes,Travel_Rarely,3,3,5,Yes
+215,36,Research & Development,Laboratory Technician,Life Sciences,5724,13,13,3,1,2,Yes,Travel_Rarely,12,3,3,Yes
+216,30,Research & Development,Research Scientist,Life Sciences,8297,8,5,2,1,1,No,Rarely,2,7,2,No
+217,34,Sales,Research Scientist,Medical,13460,7,4,2,2,4,Yes,Frequently,18,5,2,No
+218,46,Sales,Research Scientist,Medical,17636,5,0,4,3,2,No,Rarely,19,7,0,No
+219,38,IT,Sales Executive,Technical Degree,9231,13,5,2,4,4,Yes,Frequently,1,9,1,No
+220,54,IT,Human Resources,Human Resources,2501,0,0,1,1,1,Yes,Frequently,30,0,4,Yes
+221,47,IT,Sales Executive,Finance,3417,6,1,2,3,2,No,Frequently,14,9,1,No
+222,36,Sales,Manager,Finance,5541,9,6,4,1,4,No,Frequently,11,2,2,Yes
+223,27,Finance,Sales Executive,Human Resources,4556,5,0,3,3,4,Yes,Frequently,9,1,3,Yes
+224,29,Research & Development,Laboratory Technician,Human Resources,6411,1,1,2,4,2,No,Frequently,15,6,2,Yes
+225,41,Finance,Human Resources,Finance,2707,3,1,2,2,2,No,Rarely,3,8,3,Yes
+226,35,IT,Software Engineer,Technical Degree,15758,1,1,4,3,4,Yes,Frequently,13,8,4,No
+227,40,Finance,Laboratory Technician,Technical Degree,6138,13,3,1,4,1,No,Frequently,23,4,6,No
+228,53,Human Resources,Manager,Marketing,2806,11,1,2,2,3,No,Travel_Rarely,22,4,0,Yes
+229,24,Research & Development,Software Engineer,Life Sciences,13663,1,0,3,1,1,No,Rarely,22,0,6,No
+230,33,Sales,Manager,Finance,14580,4,1,1,4,4,Yes,Travel_Rarely,5,3,3,Yes
+231,41,Research & Development,Human Resources,Human Resources,3455,17,0,3,4,1,Yes,Travel_Rarely,4,9,4,No
+232,55,Sales,Manager,Technical Degree,8131,3,1,3,2,4,No,Travel_Rarely,6,6,1,No
+233,33,Sales,Laboratory Technician,Life Sciences,6214,1,1,1,3,1,No,Frequently,3,9,3,No
+234,51,Research & Development,Research Scientist,Life Sciences,16410,9,1,3,1,1,No,Rarely,6,8,5,No
+235,35,IT,Laboratory Technician,Human Resources,7099,6,0,4,2,3,Yes,Frequently,6,0,2,Yes
+236,46,Finance,Accountant,Finance,12732,1,0,1,1,3,Yes,Travel_Rarely,1,7,3,No
+237,57,Human Resources,Sales Executive,Finance,15088,22,14,3,3,2,Yes,Frequently,3,5,5,No
+238,37,Human Resources,Laboratory Technician,Medical,12685,12,9,4,2,1,Yes,Rarely,1,4,3,No
+239,29,Finance,Sales Executive,Finance,16494,3,0,1,4,2,Yes,Travel_Rarely,20,8,2,No
+240,58,Sales,Software Engineer,Technical Degree,5234,4,3,1,1,1,Yes,Frequently,24,7,3,Yes
+241,36,Research & Development,Laboratory Technician,Marketing,4425,11,10,1,4,2,No,Travel_Rarely,14,1,0,No
+242,58,IT,Human Resources,Medical,11735,25,12,1,3,3,Yes,Rarely,6,4,4,Yes
+243,26,IT,Sales Executive,Technical Degree,15972,0,0,3,2,4,Yes,Frequently,10,3,4,No
+244,45,Finance,Human Resources,Marketing,7870,10,1,1,2,1,No,Frequently,25,6,6,Yes
+245,44,IT,Sales Executive,Life Sciences,10095,5,3,3,4,2,No,Frequently,13,3,1,No
+246,29,IT,Manager,Medical,12725,4,0,3,4,1,No,Rarely,6,4,6,No
+247,43,IT,Sales Executive,Marketing,3698,1,0,3,3,2,Yes,Rarely,11,9,5,No
+248,39,Research & Development,Accountant,Marketing,10205,7,6,4,1,4,No,Frequently,27,7,0,Yes
+249,25,Finance,Software Engineer,Medical,17636,0,0,3,3,4,No,Rarely,14,4,4,No
+250,47,Research & Development,Human Resources,Technical Degree,10625,1,1,4,2,3,No,Rarely,9,0,0,No
+251,46,Sales,Manager,Life Sciences,15475,12,8,1,1,3,Yes,Frequently,9,3,1,No
+252,59,IT,Manager,Finance,15281,3,1,3,2,2,No,Travel_Rarely,18,8,6,No
+253,40,Sales,Manager,Medical,3888,10,0,4,2,2,Yes,Frequently,7,8,4,No
+254,36,IT,Manager,Technical Degree,9732,11,9,3,3,1,No,Rarely,19,8,0,No
+255,53,Research & Development,Manager,Life Sciences,14260,2,1,2,3,3,No,Travel_Rarely,8,9,1,Yes
+256,30,Human Resources,Software Engineer,Marketing,11718,4,1,4,4,2,No,Rarely,6,4,4,No
+257,47,Sales,Human Resources,Human Resources,7260,11,4,2,4,1,Yes,Travel_Rarely,15,3,6,Yes
+258,44,Human Resources,Laboratory Technician,Life Sciences,7945,13,1,4,3,3,Yes,Rarely,13,4,6,Yes
+259,37,Research & Development,Research Scientist,Life Sciences,12530,4,3,3,1,4,Yes,Travel_Rarely,11,2,6,Yes
+260,25,Finance,Manager,Human Resources,15576,0,0,2,3,2,No,Travel_Rarely,14,3,4,No
+261,48,IT,Laboratory Technician,Technical Degree,12384,14,11,3,4,4,No,Rarely,10,3,5,Yes
+262,39,Finance,Software Engineer,Human Resources,14789,16,12,4,2,1,No,Frequently,30,6,6,Yes
+263,31,IT,Sales Executive,Technical Degree,15850,6,6,4,1,2,No,Frequently,29,9,3,Yes
+264,41,Human Resources,Accountant,Finance,12167,6,5,1,4,4,No,Rarely,13,9,6,No
+265,34,Sales,Human Resources,Human Resources,17722,5,5,1,2,4,No,Frequently,9,9,0,No
+266,36,Sales,Manager,Human Resources,2509,7,1,1,1,2,Yes,Frequently,8,7,0,Yes
+267,47,Research & Development,Sales Executive,Marketing,15646,4,3,2,4,3,No,Rarely,4,6,1,No
+268,46,Sales,Human Resources,Medical,2645,18,3,2,1,3,Yes,Rarely,18,4,6,No
+269,56,Finance,Human Resources,Marketing,5679,1,0,3,1,1,Yes,Frequently,22,4,6,No
+270,56,Finance,Manager,Human Resources,3487,6,2,2,1,2,No,Travel_Rarely,13,8,5,Yes
+271,46,Human Resources,Sales Executive,Human Resources,3269,2,2,1,2,3,No,Rarely,10,5,4,No
+272,60,Human Resources,Laboratory Technician,Life Sciences,14700,16,10,3,4,4,Yes,Frequently,14,2,3,No
+273,47,Research & Development,Laboratory Technician,Finance,3625,9,6,1,2,4,No,Travel_Rarely,8,4,0,No
+274,57,Research & Development,Human Resources,Human Resources,16710,8,7,1,3,2,Yes,Frequently,9,6,3,Yes
+275,34,Human Resources,Accountant,Finance,9204,11,1,4,1,4,Yes,Travel_Rarely,27,4,5,No
+276,29,IT,Sales Executive,Marketing,12277,2,1,4,1,2,No,Travel_Rarely,3,5,5,Yes
+277,23,Human Resources,Research Scientist,Technical Degree,13466,1,1,2,1,3,Yes,Frequently,2,6,5,Yes
+278,29,Research & Development,Research Scientist,Life Sciences,3161,3,1,4,1,1,Yes,Frequently,29,8,6,Yes
+279,37,IT,Accountant,Marketing,5165,13,13,1,3,4,Yes,Travel_Rarely,12,0,3,No
+280,29,IT,Research Scientist,Medical,9623,2,1,1,3,4,No,Rarely,19,7,5,Yes
+281,26,IT,Accountant,Technical Degree,8599,3,0,1,2,1,Yes,Travel_Rarely,20,5,5,Yes
+282,39,Human Resources,Software Engineer,Human Resources,15243,6,0,1,4,4,Yes,Frequently,6,3,1,Yes
+283,35,Finance,Research Scientist,Technical Degree,7076,6,1,1,2,1,Yes,Frequently,21,1,2,No
+284,30,Research & Development,Laboratory Technician,Marketing,4996,2,1,3,2,4,No,Frequently,18,6,5,No
+285,56,IT,Human Resources,Medical,11097,10,5,4,1,4,No,Rarely,10,0,1,No
+286,59,Research & Development,Accountant,Finance,11285,12,2,2,4,2,No,Rarely,30,5,2,No
+287,37,Human Resources,Human Resources,Human Resources,17866,3,1,1,3,1,Yes,Travel_Rarely,3,1,2,No
+288,23,Human Resources,Sales Executive,Technical Degree,5478,1,1,4,2,4,Yes,Frequently,10,8,1,No
+289,46,Research & Development,Accountant,Medical,17088,21,0,4,3,2,No,Rarely,1,5,5,No
+290,24,Human Resources,Sales Executive,Technical Degree,5030,0,0,2,1,1,No,Rarely,21,1,4,Yes
+291,55,Research & Development,Manager,Medical,3463,24,14,4,1,4,Yes,Frequently,12,3,1,Yes
+292,50,Sales,Accountant,Medical,8447,5,4,3,2,2,No,Rarely,28,6,2,Yes
+293,52,Finance,Software Engineer,Technical Degree,9654,4,2,2,2,1,Yes,Travel_Rarely,2,1,4,Yes
+294,52,Sales,Sales Executive,Medical,7675,14,8,3,3,1,Yes,Frequently,3,4,0,No
+295,49,IT,Software Engineer,Marketing,14977,13,2,3,4,4,No,Rarely,28,0,3,No
+296,25,Sales,Sales Executive,Finance,4138,3,0,1,3,4,Yes,Frequently,20,3,3,No
+297,59,Finance,Sales Executive,Human Resources,5802,17,14,1,4,3,Yes,Frequently,30,2,6,No
+298,48,IT,Human Resources,Medical,12831,21,13,3,1,1,Yes,Travel_Rarely,22,4,5,Yes
+299,23,Sales,Human Resources,Human Resources,16385,0,0,1,2,2,No,Rarely,15,4,1,Yes
+300,44,Sales,Human Resources,Human Resources,10493,6,4,1,1,1,No,Rarely,26,1,4,No
+301,42,IT,Human Resources,Technical Degree,4885,4,4,4,4,1,Yes,Frequently,3,0,3,Yes
+302,32,Finance,Laboratory Technician,Life Sciences,7298,4,3,4,3,1,No,Travel_Rarely,26,3,1,No
+303,39,Sales,Laboratory Technician,Finance,7339,2,0,1,4,1,Yes,Travel_Rarely,6,9,4,Yes
+304,34,IT,Software Engineer,Life Sciences,5172,8,0,4,1,1,No,Rarely,1,1,3,No
+305,50,Human Resources,Accountant,Technical Degree,11812,9,1,2,4,4,Yes,Travel_Rarely,8,4,3,No
+306,32,Finance,Software Engineer,Life Sciences,15546,1,1,3,2,4,Yes,Rarely,17,0,3,No
+307,44,Finance,Sales Executive,Life Sciences,11547,12,2,1,4,4,No,Rarely,1,6,4,No
+308,29,Sales,Laboratory Technician,Technical Degree,7440,7,0,3,3,1,No,Travel_Rarely,13,2,2,No
+309,45,IT,Manager,Finance,13780,4,3,1,4,2,No,Rarely,14,3,2,Yes
+310,36,Human Resources,Accountant,Marketing,7830,6,2,4,3,3,Yes,Travel_Rarely,26,4,4,Yes
+311,51,Human Resources,Manager,Technical Degree,12729,7,7,2,2,3,No,Travel_Rarely,16,0,6,No
+312,29,Finance,Laboratory Technician,Finance,6339,7,0,1,2,3,Yes,Frequently,18,2,0,Yes
+313,57,IT,Laboratory Technician,Technical Degree,9479,13,8,1,1,2,Yes,Travel_Rarely,23,1,1,Yes
+314,42,IT,Accountant,Marketing,6247,11,10,4,2,2,Yes,Travel_Rarely,13,4,6,Yes
+315,37,Sales,Laboratory Technician,Technical Degree,12003,15,11,2,3,2,No,Frequently,15,0,1,No
+316,30,Finance,Research Scientist,Technical Degree,8284,7,2,2,4,2,No,Frequently,25,1,5,Yes
+317,51,Human Resources,Human Resources,Finance,16791,20,11,4,3,2,No,Frequently,17,7,4,No
+318,56,Sales,Sales Executive,Human Resources,16957,29,6,3,1,4,No,Frequently,9,1,4,No
+319,34,Research & Development,Sales Executive,Finance,9665,4,3,4,3,4,Yes,Travel_Rarely,22,5,2,No
+320,46,Sales,Research Scientist,Finance,13273,12,1,2,1,1,Yes,Rarely,15,3,2,Yes
+321,52,Finance,Human Resources,Medical,12178,18,6,4,4,1,Yes,Travel_Rarely,22,4,4,No
+322,54,Human Resources,Laboratory Technician,Human Resources,13435,2,2,2,3,3,No,Rarely,29,6,3,Yes
+323,46,Human Resources,Manager,Marketing,9795,4,1,2,4,4,No,Travel_Rarely,1,4,2,Yes
+324,22,Sales,Sales Executive,Human Resources,8519,0,0,4,3,4,Yes,Frequently,10,1,2,Yes
+325,46,IT,Sales Executive,Finance,5581,20,15,2,3,3,No,Frequently,27,1,0,No
+326,34,IT,Laboratory Technician,Life Sciences,16204,3,3,2,2,2,No,Rarely,26,5,3,Yes
+327,38,Sales,Manager,Technical Degree,16785,13,8,2,1,1,Yes,Travel_Rarely,20,2,6,No
+328,27,Human Resources,Software Engineer,Life Sciences,14587,2,0,2,4,3,No,Travel_Rarely,29,3,3,Yes
+329,31,Human Resources,Laboratory Technician,Finance,17371,5,2,2,1,2,Yes,Travel_Rarely,21,5,6,No
+330,42,Research & Development,Accountant,Medical,17037,5,5,4,4,1,No,Travel_Rarely,13,3,0,Yes
+331,28,Research & Development,Accountant,Technical Degree,5063,4,2,4,1,4,Yes,Rarely,26,6,3,Yes
+332,25,IT,Human Resources,Human Resources,6459,1,1,2,2,2,No,Frequently,19,2,0,Yes
+333,40,Sales,Sales Executive,Finance,15193,12,11,2,2,2,No,Frequently,21,3,2,No
+334,57,IT,Manager,Life Sciences,7969,22,0,3,1,2,No,Travel_Rarely,20,0,2,Yes
+335,49,Human Resources,Software Engineer,Technical Degree,13502,14,10,1,4,2,Yes,Frequently,13,0,0,No
+336,27,Human Resources,Research Scientist,Technical Degree,3783,3,3,3,3,3,Yes,Rarely,6,6,0,No
+337,47,Sales,Accountant,Medical,5971,4,0,4,1,2,Yes,Travel_Rarely,18,2,4,Yes
+338,51,Research & Development,Laboratory Technician,Human Resources,8897,21,12,2,1,3,Yes,Frequently,13,2,4,No
+339,40,Sales,Laboratory Technician,Human Resources,3949,2,1,2,3,1,Yes,Travel_Rarely,29,4,3,Yes
+340,42,Human Resources,Human Resources,Finance,17933,4,3,2,2,4,Yes,Travel_Rarely,30,6,6,Yes
+341,56,IT,Research Scientist,Human Resources,15428,23,8,4,2,1,Yes,Travel_Rarely,22,8,6,No
+342,41,IT,Laboratory Technician,Life Sciences,16475,3,0,2,4,4,Yes,Rarely,10,5,3,Yes
+343,28,IT,Laboratory Technician,Technical Degree,2662,6,3,2,4,2,Yes,Travel_Rarely,16,5,6,Yes
+344,46,Sales,Manager,Marketing,2704,5,3,1,1,4,No,Travel_Rarely,24,3,1,Yes
+345,42,Finance,Laboratory Technician,Finance,17031,17,0,3,3,2,No,Rarely,15,1,2,Yes
+346,41,Finance,Manager,Medical,8091,14,6,1,2,2,No,Frequently,12,7,5,Yes
+347,58,Research & Development,Laboratory Technician,Marketing,4861,20,1,1,3,3,No,Travel_Rarely,26,4,0,No
+348,40,Research & Development,Accountant,Human Resources,11062,11,8,1,1,1,No,Travel_Rarely,18,4,3,Yes
+349,28,Research & Development,Manager,Technical Degree,3097,6,0,1,4,1,Yes,Frequently,29,1,3,Yes
+350,60,Sales,Sales Executive,Human Resources,14361,16,0,2,2,2,No,Frequently,6,1,0,Yes
+351,31,Research & Development,Accountant,Finance,15640,4,1,2,4,1,No,Travel_Rarely,2,9,1,Yes
+352,37,Research & Development,Manager,Marketing,16691,2,0,3,2,4,No,Frequently,24,7,5,No
+353,31,Sales,Manager,Medical,3110,2,2,1,4,4,No,Rarely,7,4,3,No
+354,47,Sales,Sales Executive,Human Resources,17218,3,1,4,2,3,No,Frequently,24,7,4,No
+355,36,Finance,Laboratory Technician,Technical Degree,4249,3,3,2,3,1,Yes,Rarely,9,7,1,Yes
+356,49,Human Resources,Software Engineer,Marketing,9693,16,14,2,1,4,No,Frequently,30,2,3,Yes
+357,54,Sales,Human Resources,Human Resources,4077,19,2,2,3,4,Yes,Frequently,23,8,2,Yes
+358,40,Finance,Human Resources,Marketing,9352,18,10,4,4,2,No,Travel_Rarely,8,7,3,No
+359,49,IT,Software Engineer,Life Sciences,7916,3,0,1,4,3,Yes,Rarely,9,7,1,Yes
+360,41,Human Resources,Human Resources,Medical,6025,11,1,3,4,3,No,Rarely,13,2,2,No
+361,59,Finance,Human Resources,Life Sciences,13668,27,0,3,4,4,Yes,Rarely,5,4,3,Yes
+362,51,Human Resources,Accountant,Technical Degree,13705,13,5,3,4,1,No,Travel_Rarely,12,6,0,Yes
+363,42,IT,Research Scientist,Marketing,3169,12,1,4,4,2,No,Travel_Rarely,26,6,2,Yes
+364,26,IT,Software Engineer,Marketing,12252,2,0,4,1,4,No,Travel_Rarely,2,9,5,No
+365,26,IT,Human Resources,Human Resources,2726,4,3,1,1,4,No,Travel_Rarely,6,1,5,Yes
+366,40,Sales,Laboratory Technician,Life Sciences,10044,10,1,3,4,4,No,Travel_Rarely,9,4,1,No
+367,43,IT,Laboratory Technician,Technical Degree,11846,11,11,2,2,4,Yes,Travel_Rarely,21,7,1,Yes
+368,54,IT,Human Resources,Life Sciences,11672,2,1,1,3,3,Yes,Travel_Rarely,18,9,2,Yes
+369,44,Research & Development,Human Resources,Finance,13939,21,0,1,4,3,No,Rarely,30,2,0,Yes
+370,41,IT,Software Engineer,Life Sciences,13632,15,1,2,3,4,Yes,Rarely,24,6,5,Yes
+371,30,Finance,Research Scientist,Medical,8279,0,0,4,3,3,No,Travel_Rarely,3,3,1,No
+372,46,IT,Manager,Medical,16626,5,4,3,1,1,Yes,Travel_Rarely,21,3,5,Yes
+373,57,IT,Laboratory Technician,Technical Degree,2959,16,6,1,3,4,No,Travel_Rarely,13,1,2,Yes
+374,54,Research & Development,Manager,Marketing,7241,26,10,3,3,3,No,Travel_Rarely,2,7,5,No
+375,59,Human Resources,Human Resources,Medical,2641,3,0,4,2,3,No,Rarely,19,3,0,No
+376,46,Human Resources,Research Scientist,Finance,2923,23,13,2,2,3,No,Frequently,22,8,2,Yes
+377,24,Finance,Laboratory Technician,Human Resources,12141,2,0,4,4,1,No,Frequently,7,8,2,No
+378,40,Human Resources,Laboratory Technician,Finance,5490,13,7,2,1,1,Yes,Travel_Rarely,4,7,0,Yes
+379,51,Finance,Accountant,Marketing,2764,0,0,4,4,1,No,Rarely,14,4,2,Yes
+380,35,Sales,Laboratory Technician,Marketing,12961,8,3,3,4,4,No,Travel_Rarely,8,1,0,No
+381,43,Research & Development,Research Scientist,Finance,14700,15,12,2,1,4,No,Travel_Rarely,30,2,2,Yes
+382,42,Sales,Human Resources,Life Sciences,16578,20,4,4,4,1,Yes,Rarely,3,0,4,No
+383,30,IT,Research Scientist,Life Sciences,6016,8,3,3,1,2,Yes,Rarely,24,0,4,Yes
+384,44,Finance,Sales Executive,Human Resources,3947,11,5,4,2,3,Yes,Rarely,15,8,2,No
+385,47,Research & Development,Manager,Finance,15607,21,7,1,3,2,No,Frequently,20,8,4,Yes
+386,25,Human Resources,Laboratory Technician,Life Sciences,4346,2,1,4,1,3,No,Travel_Rarely,22,1,1,No
+387,48,Sales,Software Engineer,Finance,13690,8,0,4,3,2,Yes,Travel_Rarely,6,5,0,No
+388,39,Sales,Research Scientist,Life Sciences,12628,11,5,2,3,4,No,Rarely,19,9,0,No
+389,50,Finance,Accountant,Finance,12336,16,2,4,2,3,No,Rarely,16,3,0,No
+390,34,Human Resources,Sales Executive,Human Resources,7296,5,0,2,1,2,Yes,Frequently,8,3,3,Yes
+391,54,Human Resources,Laboratory Technician,Human Resources,7197,6,4,1,1,4,No,Travel_Rarely,30,9,2,No
+392,30,Research & Development,Accountant,Medical,7963,4,0,1,1,4,No,Frequently,21,2,2,No
+393,60,Human Resources,Research Scientist,Marketing,2682,8,6,1,4,3,No,Travel_Rarely,14,2,2,No
+394,34,Sales,Software Engineer,Human Resources,12866,12,0,4,4,3,No,Frequently,12,7,4,No
+395,33,Research & Development,Research Scientist,Human Resources,9088,0,0,1,2,3,No,Frequently,28,9,4,Yes
+396,29,Finance,Software Engineer,Medical,15646,5,5,1,3,3,Yes,Rarely,17,3,1,Yes
+397,39,Research & Development,Sales Executive,Medical,6533,3,1,1,3,4,No,Frequently,18,4,2,No
+398,49,Human Resources,Laboratory Technician,Finance,3435,19,0,1,4,2,No,Travel_Rarely,19,8,6,No
+399,23,Human Resources,Software Engineer,Medical,7554,0,0,1,2,2,No,Travel_Rarely,19,9,5,Yes
+400,39,Sales,Manager,Technical Degree,7158,8,8,3,4,3,No,Rarely,20,5,2,No
+401,23,Human Resources,Software Engineer,Marketing,4128,1,0,4,2,4,Yes,Travel_Rarely,2,0,0,Yes
+402,33,Research & Development,Research Scientist,Medical,4966,10,0,3,1,3,Yes,Frequently,26,4,4,No
+403,52,IT,Laboratory Technician,Human Resources,9564,22,7,1,2,4,No,Travel_Rarely,21,5,2,No
+404,39,IT,Accountant,Finance,9063,2,0,3,1,1,Yes,Rarely,6,9,5,No
+405,55,Sales,Human Resources,Finance,4323,2,2,4,4,3,No,Travel_Rarely,9,6,2,No
+406,53,IT,Sales Executive,Human Resources,12733,26,8,2,4,4,Yes,Travel_Rarely,1,7,6,Yes
+407,55,IT,Research Scientist,Human Resources,9083,27,4,3,4,1,Yes,Frequently,24,0,0,No
+408,41,Research & Development,Software Engineer,Human Resources,8406,9,1,4,3,3,No,Rarely,15,0,0,No
+409,59,Sales,Manager,Technical Degree,11267,4,1,4,4,4,Yes,Travel_Rarely,12,5,0,No
+410,52,Sales,Human Resources,Marketing,8244,12,1,1,2,4,No,Travel_Rarely,24,2,2,No
+411,25,Finance,Laboratory Technician,Medical,10333,2,1,2,3,4,Yes,Travel_Rarely,27,9,2,Yes
+412,27,Sales,Manager,Life Sciences,16638,4,4,2,2,1,No,Travel_Rarely,26,4,1,Yes
+413,58,Sales,Sales Executive,Marketing,17894,22,5,4,2,4,No,Rarely,9,0,4,No
+414,34,Research & Development,Accountant,Technical Degree,6654,3,0,1,4,4,No,Frequently,22,3,4,No
+415,58,Finance,Manager,Finance,4852,12,1,1,2,1,Yes,Travel_Rarely,27,6,2,No
+416,24,Research & Development,Software Engineer,Medical,16365,1,1,1,3,2,No,Rarely,17,4,5,No
+417,42,Finance,Human Resources,Medical,10991,10,6,4,3,1,Yes,Travel_Rarely,28,7,4,No
+418,56,Sales,Laboratory Technician,Finance,7504,14,1,3,4,3,No,Travel_Rarely,29,0,2,No
+419,39,IT,Manager,Technical Degree,4651,4,4,4,4,1,Yes,Rarely,17,4,3,Yes
+420,40,Human Resources,Research Scientist,Finance,12738,1,0,2,1,3,Yes,Rarely,12,5,4,Yes
+421,32,Sales,Research Scientist,Life Sciences,12202,4,0,4,4,1,Yes,Rarely,14,9,3,No
+422,27,Finance,Human Resources,Finance,3382,2,1,4,4,4,Yes,Rarely,20,5,6,Yes
+423,57,Finance,Research Scientist,Medical,9769,10,0,2,4,3,Yes,Rarely,15,8,2,No
+424,38,Human Resources,Research Scientist,Human Resources,16502,13,10,2,4,3,No,Travel_Rarely,15,3,6,No
+425,56,Human Resources,Research Scientist,Finance,5619,30,8,4,4,1,No,Rarely,17,0,0,No
+426,54,Finance,Laboratory Technician,Human Resources,6435,7,2,3,2,3,No,Rarely,27,4,4,No
+427,52,Research & Development,Software Engineer,Technical Degree,10682,15,1,4,2,1,No,Travel_Rarely,22,2,5,Yes
+428,31,Human Resources,Software Engineer,Marketing,8429,4,3,2,1,4,No,Travel_Rarely,3,7,5,No
+429,51,Finance,Research Scientist,Medical,9970,2,2,2,4,2,No,Frequently,17,7,6,No
+430,51,Finance,Research Scientist,Finance,13386,2,0,4,1,1,Yes,Frequently,1,4,4,Yes
+431,29,Finance,Sales Executive,Human Resources,10568,3,3,1,3,1,No,Frequently,4,2,1,No
+432,44,Finance,Research Scientist,Marketing,14028,1,1,2,4,4,No,Rarely,30,5,2,No
+433,56,Finance,Accountant,Human Resources,6155,2,1,4,1,1,No,Rarely,2,2,2,No
+434,59,Research & Development,Sales Executive,Finance,8147,1,1,1,3,2,No,Frequently,10,5,3,No
+435,23,Sales,Accountant,Human Resources,15237,1,0,4,3,3,Yes,Rarely,28,1,6,No
+436,24,IT,Research Scientist,Marketing,5451,2,1,4,2,3,No,Rarely,27,5,4,Yes
+437,60,Sales,Research Scientist,Life Sciences,4088,6,0,1,1,2,Yes,Travel_Rarely,21,4,2,Yes
+438,40,Finance,Research Scientist,Medical,9980,16,6,3,4,2,Yes,Frequently,10,9,3,No
+439,29,Human Resources,Manager,Finance,4089,3,3,4,2,2,No,Travel_Rarely,18,3,4,Yes
+440,45,Human Resources,Laboratory Technician,Life Sciences,17682,21,13,3,4,1,No,Frequently,27,6,1,No
+441,33,Finance,Accountant,Marketing,14394,1,1,4,2,3,No,Rarely,11,8,3,Yes
+442,36,Sales,Human Resources,Medical,16252,14,0,2,1,2,Yes,Travel_Rarely,18,5,5,Yes
+443,38,IT,Human Resources,Medical,14106,7,0,2,1,4,No,Frequently,25,8,0,Yes
+444,40,Research & Development,Manager,Human Resources,6732,1,1,4,4,2,Yes,Frequently,15,2,4,No
+445,40,Human Resources,Laboratory Technician,Finance,4724,5,3,3,1,1,No,Travel_Rarely,26,6,1,No
+446,50,Finance,Research Scientist,Medical,15716,27,10,1,4,3,No,Rarely,10,6,4,No
+447,42,Finance,Research Scientist,Life Sciences,2734,12,4,1,4,4,Yes,Travel_Rarely,11,0,3,No
+448,46,Sales,Accountant,Technical Degree,12321,8,4,4,3,3,Yes,Rarely,12,4,1,Yes
+449,38,Research & Development,Sales Executive,Medical,3624,15,6,4,4,1,Yes,Rarely,3,1,5,No
+450,56,Human Resources,Sales Executive,Technical Degree,7855,8,6,1,1,2,No,Travel_Rarely,5,3,6,Yes
+451,23,IT,Human Resources,Life Sciences,15436,0,0,2,3,2,No,Rarely,24,5,0,Yes
+452,57,Human Resources,Human Resources,Human Resources,13360,22,12,1,2,1,No,Rarely,24,7,6,No
+453,57,Finance,Accountant,Life Sciences,17109,2,1,4,4,1,Yes,Rarely,28,7,5,Yes
+454,22,Research & Development,Research Scientist,Marketing,11047,0,0,1,4,3,No,Frequently,3,8,0,No
+455,31,Sales,Laboratory Technician,Human Resources,9208,4,1,2,1,1,No,Frequently,6,7,1,Yes
+456,43,Research & Development,Laboratory Technician,Finance,10516,3,1,2,3,1,Yes,Travel_Rarely,3,5,0,No
+457,33,Sales,Manager,Human Resources,5753,3,3,1,3,1,No,Frequently,4,9,3,No
+458,47,Sales,Software Engineer,Technical Degree,12969,0,0,4,3,4,Yes,Rarely,16,0,3,No
+459,33,Human Resources,Human Resources,Life Sciences,6366,5,4,2,3,3,Yes,Travel_Rarely,30,8,1,Yes
+460,58,IT,Manager,Life Sciences,17993,6,4,1,1,3,No,Rarely,26,6,3,No
+461,33,Human Resources,Human Resources,Marketing,16339,10,4,4,1,3,Yes,Rarely,4,2,0,Yes
+462,53,Research & Development,Human Resources,Technical Degree,6926,7,0,3,1,4,Yes,Travel_Rarely,8,5,2,No
+463,25,Human Resources,Research Scientist,Technical Degree,15403,2,0,1,1,2,Yes,Travel_Rarely,2,6,3,Yes
+464,47,IT,Laboratory Technician,Medical,11207,25,7,1,3,1,No,Travel_Rarely,24,3,1,No
+465,32,Sales,Human Resources,Life Sciences,14563,5,0,1,3,2,No,Rarely,12,6,1,No
+466,47,Sales,Laboratory Technician,Life Sciences,17884,9,2,3,1,1,No,Frequently,8,7,3,No
+467,52,Finance,Manager,Human Resources,5983,10,10,1,1,3,Yes,Frequently,20,5,5,No
+468,52,Finance,Research Scientist,Human Resources,17324,13,1,2,1,2,No,Rarely,5,3,3,Yes
+469,32,Research & Development,Software Engineer,Marketing,4795,5,0,2,2,3,Yes,Rarely,2,9,4,Yes
+470,26,Research & Development,Software Engineer,Marketing,10057,1,1,2,2,1,No,Frequently,30,2,5,Yes
+471,27,Sales,Laboratory Technician,Marketing,3616,3,0,3,4,1,No,Frequently,17,1,2,Yes
+472,52,Sales,Research Scientist,Human Resources,16479,11,5,1,4,4,No,Frequently,3,7,2,No
+473,47,Finance,Sales Executive,Marketing,13185,24,11,3,1,1,Yes,Rarely,18,2,6,No
+474,59,IT,Human Resources,Life Sciences,11577,17,9,2,4,4,No,Frequently,19,1,0,No
+475,37,Finance,Accountant,Human Resources,9093,1,0,4,1,2,Yes,Travel_Rarely,8,3,6,No
+476,51,Research & Development,Human Resources,Technical Degree,9476,10,6,1,3,4,Yes,Travel_Rarely,24,1,5,Yes
+477,50,Human Resources,Laboratory Technician,Medical,10777,11,8,1,2,4,No,Frequently,5,9,6,Yes
+478,42,Finance,Laboratory Technician,Technical Degree,16539,9,7,2,3,4,No,Frequently,16,5,4,No
+479,48,Human Resources,Laboratory Technician,Finance,13628,2,0,1,2,4,Yes,Travel_Rarely,9,5,6,Yes
+480,48,IT,Research Scientist,Medical,9189,18,0,4,1,1,No,Rarely,7,0,2,No
+481,41,Finance,Laboratory Technician,Technical Degree,4951,2,2,1,3,3,No,Frequently,26,0,1,Yes
+482,50,IT,Research Scientist,Human Resources,12695,20,10,2,4,1,No,Frequently,18,0,1,No
+483,47,Research & Development,Manager,Technical Degree,16688,19,3,3,2,3,No,Rarely,11,8,0,No
+484,26,Human Resources,Software Engineer,Medical,4413,0,0,1,2,2,No,Travel_Rarely,24,8,4,Yes
+485,25,Human Resources,Accountant,Life Sciences,15496,3,2,4,3,1,No,Frequently,3,9,2,No
+486,40,Research & Development,Human Resources,Human Resources,3632,6,6,3,3,2,Yes,Travel_Rarely,8,4,4,Yes
+487,35,Finance,Software Engineer,Marketing,4679,6,1,4,3,2,Yes,Frequently,20,7,0,No
+488,40,Sales,Accountant,Technical Degree,14899,6,5,4,2,1,No,Travel_Rarely,27,3,1,Yes
+489,36,Human Resources,Research Scientist,Medical,14758,4,0,3,3,4,No,Travel_Rarely,27,7,6,No
+490,57,Finance,Sales Executive,Technical Degree,15781,28,7,4,2,4,No,Travel_Rarely,3,1,0,No
+491,44,IT,Human Resources,Life Sciences,5752,19,6,1,1,3,No,Travel_Rarely,30,4,5,No
+492,27,Human Resources,Software Engineer,Medical,3880,0,0,2,4,3,Yes,Rarely,7,5,4,Yes
+493,41,Human Resources,Research Scientist,Finance,8134,18,5,3,4,4,Yes,Travel_Rarely,12,5,2,No
+494,57,Finance,Accountant,Life Sciences,13490,8,4,1,3,2,No,Frequently,18,4,0,Yes
+495,48,Human Resources,Research Scientist,Marketing,2705,24,13,4,3,3,Yes,Frequently,22,3,6,Yes
+496,37,IT,Software Engineer,Life Sciences,13243,5,4,2,1,4,Yes,Frequently,17,6,6,Yes
+497,31,Human Resources,Manager,Finance,16867,1,0,2,1,1,Yes,Rarely,11,9,5,Yes
+498,38,Human Resources,Laboratory Technician,Human Resources,14599,15,3,3,1,3,No,Rarely,21,4,5,No
+499,22,Finance,Sales Executive,Finance,7810,0,0,1,3,4,No,Travel_Rarely,17,8,6,Yes
+500,45,Sales,Laboratory Technician,Life Sciences,9861,7,6,4,3,3,Yes,Travel_Rarely,6,0,6,Yes
+501,44,Human Resources,Software Engineer,Medical,16189,6,4,2,1,1,Yes,Travel_Rarely,2,8,4,No
+502,30,Research & Development,Human Resources,Medical,7760,5,5,4,4,1,Yes,Travel_Rarely,3,0,6,Yes
+503,33,Finance,Manager,Finance,4403,6,0,1,3,2,Yes,Frequently,15,3,3,Yes
+504,39,Finance,Manager,Human Resources,11060,10,3,3,4,2,Yes,Travel_Rarely,26,0,5,No
+505,55,Finance,Human Resources,Life Sciences,7296,22,3,4,3,1,No,Frequently,19,5,0,No
+506,54,Research & Development,Laboratory Technician,Life Sciences,10612,7,2,1,1,1,Yes,Travel_Rarely,27,5,4,No
+507,56,IT,Research Scientist,Medical,11350,11,10,3,2,1,No,Frequently,20,3,3,No
+508,44,Human Resources,Software Engineer,Finance,12229,21,2,1,1,4,No,Travel_Rarely,7,7,6,Yes
+509,24,Finance,Human Resources,Life Sciences,14389,2,2,3,2,4,No,Travel_Rarely,16,7,3,Yes
+510,54,Finance,Human Resources,Finance,2612,11,4,3,1,3,Yes,Travel_Rarely,12,0,5,No
+511,54,IT,Human Resources,Medical,11208,24,11,2,1,2,Yes,Travel_Rarely,24,0,5,Yes
+512,40,Research & Development,Laboratory Technician,Marketing,7321,4,2,2,2,3,Yes,Rarely,7,3,0,No
+513,34,IT,Manager,Medical,15895,5,5,3,3,4,No,Travel_Rarely,22,7,3,No
+514,50,Finance,Research Scientist,Human Resources,8411,17,14,2,1,1,No,Travel_Rarely,8,9,5,No
+515,50,Research & Development,Human Resources,Marketing,2701,16,1,2,2,1,Yes,Frequently,28,8,4,Yes
+516,39,Human Resources,Accountant,Life Sciences,14237,8,0,3,1,4,No,Travel_Rarely,7,2,1,No
+517,55,Sales,Manager,Technical Degree,16614,15,1,4,4,2,Yes,Rarely,6,5,1,No
+518,60,IT,Software Engineer,Finance,15006,28,14,2,4,3,No,Frequently,9,5,3,No
+519,40,Finance,Manager,Human Resources,15383,2,2,2,2,1,Yes,Rarely,2,5,2,Yes
+520,27,Research & Development,Laboratory Technician,Medical,4242,2,1,1,1,4,Yes,Frequently,16,5,0,Yes
+521,57,Research & Development,Accountant,Finance,7678,27,1,1,4,1,No,Travel_Rarely,19,9,0,No
+522,31,Finance,Human Resources,Life Sciences,15608,5,2,4,1,3,Yes,Travel_Rarely,24,5,3,Yes
+523,55,IT,Accountant,Life Sciences,4961,24,12,4,1,1,No,Travel_Rarely,13,3,6,No
+524,30,Finance,Human Resources,Life Sciences,9831,2,0,2,4,1,Yes,Frequently,13,9,5,No
+525,59,Research & Development,Laboratory Technician,Marketing,13396,9,1,3,2,2,Yes,Frequently,3,3,2,Yes
+526,42,Sales,Manager,Medical,9794,14,14,4,1,3,Yes,Rarely,9,9,2,No
+527,49,IT,Software Engineer,Human Resources,14548,10,8,1,2,2,No,Travel_Rarely,20,7,6,No
+528,44,Research & Development,Human Resources,Medical,3634,19,14,4,3,1,Yes,Rarely,25,4,2,No
+529,55,IT,Laboratory Technician,Human Resources,17131,10,1,3,2,2,No,Travel_Rarely,1,1,5,Yes
+530,31,Human Resources,Laboratory Technician,Finance,3861,5,2,4,3,3,No,Travel_Rarely,13,7,5,No
+531,24,Research & Development,Accountant,Marketing,4493,1,0,3,4,3,No,Rarely,14,7,2,No
+532,38,Research & Development,Software Engineer,Medical,9740,5,2,1,3,1,Yes,Rarely,28,0,5,No
+533,58,Research & Development,Accountant,Medical,7244,17,7,3,1,2,No,Frequently,29,9,2,No
+534,59,Human Resources,Software Engineer,Technical Degree,4541,7,3,2,4,3,No,Frequently,5,1,1,Yes
+535,43,Sales,Manager,Marketing,13251,10,9,1,1,4,No,Travel_Rarely,22,6,4,No
+536,45,Finance,Laboratory Technician,Life Sciences,10503,14,0,3,3,2,Yes,Travel_Rarely,6,1,0,No
+537,22,Finance,Software Engineer,Human Resources,4137,0,0,2,1,4,No,Rarely,29,4,0,Yes
+538,31,Finance,Accountant,Marketing,17695,4,1,3,3,1,Yes,Frequently,15,3,2,Yes
+539,56,Human Resources,Laboratory Technician,Technical Degree,7559,4,0,4,4,4,Yes,Travel_Rarely,27,7,1,No
+540,44,Sales,Sales Executive,Technical Degree,16476,20,12,3,2,4,Yes,Travel_Rarely,24,8,4,Yes
+541,53,Research & Development,Manager,Technical Degree,11258,4,3,2,2,1,No,Rarely,10,9,6,Yes
+542,37,Research & Development,Software Engineer,Marketing,16932,0,0,1,1,1,No,Rarely,6,2,4,Yes
+543,56,Human Resources,Laboratory Technician,Finance,9706,21,8,2,1,2,Yes,Frequently,23,0,3,No
+544,44,Research & Development,Sales Executive,Marketing,10643,2,1,1,3,2,No,Travel_Rarely,9,4,6,No
+545,34,Research & Development,Manager,Life Sciences,9315,3,2,4,3,1,Yes,Travel_Rarely,17,6,4,Yes
+546,23,Finance,Sales Executive,Medical,11176,1,1,2,2,2,Yes,Travel_Rarely,22,0,5,Yes
+547,38,Finance,Sales Executive,Marketing,7233,10,9,3,2,2,Yes,Travel_Rarely,10,2,3,No
+548,55,Finance,Software Engineer,Life Sciences,12428,9,6,3,3,2,Yes,Frequently,19,5,6,Yes
+549,49,Sales,Software Engineer,Marketing,8283,7,2,1,1,3,Yes,Rarely,1,0,2,Yes
+550,24,Human Resources,Research Scientist,Finance,17165,2,1,1,1,2,No,Rarely,2,2,4,No
+551,22,Research & Development,Sales Executive,Finance,13669,0,0,1,4,3,Yes,Travel_Rarely,13,0,4,Yes
+552,50,Human Resources,Software Engineer,Finance,6890,23,9,1,3,1,Yes,Travel_Rarely,5,9,0,Yes
+553,24,Finance,Human Resources,Life Sciences,7626,1,0,3,1,1,No,Rarely,17,0,2,No
+554,46,Research & Development,Accountant,Finance,10942,2,2,1,1,3,Yes,Travel_Rarely,26,8,5,Yes
+555,49,Finance,Laboratory Technician,Marketing,11788,23,7,1,1,1,Yes,Rarely,22,8,2,Yes
+556,28,Research & Development,Human Resources,Life Sciences,3217,4,2,3,2,1,No,Travel_Rarely,13,2,2,No
+557,51,Human Resources,Research Scientist,Technical Degree,4604,7,1,3,4,4,Yes,Travel_Rarely,2,7,5,No
+558,27,Sales,Accountant,Technical Degree,5263,0,0,4,4,3,Yes,Frequently,28,3,0,Yes
+559,39,Finance,Software Engineer,Life Sciences,17669,12,12,2,3,4,Yes,Travel_Rarely,29,9,4,No
+560,24,Human Resources,Research Scientist,Technical Degree,16662,2,1,2,4,4,No,Travel_Rarely,27,6,5,Yes
+561,25,Research & Development,Accountant,Life Sciences,8126,3,3,3,2,3,No,Rarely,11,1,5,No
+562,30,Sales,Laboratory Technician,Life Sciences,17183,1,0,4,3,4,Yes,Rarely,25,3,0,No
+563,58,Finance,Human Resources,Finance,5939,12,6,4,2,4,No,Travel_Rarely,17,2,4,No
+564,40,Finance,Manager,Finance,10371,11,10,3,4,1,No,Rarely,28,5,4,No
+565,38,IT,Research Scientist,Marketing,14163,2,0,4,2,4,No,Rarely,10,4,4,Yes
+566,43,Research & Development,Accountant,Marketing,6145,9,9,1,1,3,Yes,Travel_Rarely,22,7,2,Yes
+567,23,Sales,Laboratory Technician,Medical,4129,1,1,2,4,3,No,Travel_Rarely,15,0,1,Yes
+568,23,Sales,Manager,Human Resources,13941,1,0,2,3,2,Yes,Frequently,30,0,5,Yes
+569,59,Human Resources,Software Engineer,Life Sciences,13244,14,2,2,3,2,Yes,Rarely,29,0,5,No
+570,53,Sales,Research Scientist,Human Resources,6751,20,9,2,1,3,No,Frequently,4,6,5,No
+571,31,Human Resources,Research Scientist,Finance,5546,4,3,4,3,3,No,Rarely,6,7,3,No
+572,58,Human Resources,Software Engineer,Marketing,8983,11,0,4,4,1,Yes,Rarely,5,5,5,No
+573,42,Human Resources,Human Resources,Finance,11299,2,2,1,4,4,Yes,Frequently,14,1,5,No
+574,46,Sales,Manager,Marketing,4603,13,10,4,4,3,No,Travel_Rarely,29,6,4,Yes
+575,59,IT,Research Scientist,Marketing,8533,1,1,3,1,2,No,Rarely,29,5,2,No
+576,41,IT,Software Engineer,Finance,12367,10,10,4,1,2,Yes,Rarely,3,2,6,No
+577,36,Sales,Accountant,Life Sciences,14163,12,12,1,3,4,Yes,Rarely,11,4,2,No
+578,32,Finance,Research Scientist,Human Resources,16834,4,2,2,2,3,Yes,Rarely,14,7,1,No
+579,53,Finance,Research Scientist,Technical Degree,8547,22,14,4,3,2,No,Rarely,3,2,4,No
+580,42,Human Resources,Laboratory Technician,Marketing,13888,9,2,1,4,1,Yes,Travel_Rarely,29,2,2,Yes
+581,23,Sales,Research Scientist,Life Sciences,16909,0,0,3,1,4,Yes,Travel_Rarely,16,2,6,No
+582,45,Sales,Manager,Marketing,3150,13,1,3,4,1,No,Frequently,27,4,2,Yes
+583,42,Finance,Sales Executive,Marketing,5327,17,3,2,1,2,No,Rarely,20,5,0,No
+584,35,Human Resources,Software Engineer,Marketing,16526,10,1,3,3,2,Yes,Frequently,18,7,6,No
+585,32,Finance,Accountant,Human Resources,13016,4,0,3,3,1,Yes,Travel_Rarely,9,5,1,No
+586,43,Research & Development,Research Scientist,Life Sciences,12566,0,0,4,3,4,Yes,Frequently,1,7,3,Yes
+587,43,Human Resources,Software Engineer,Life Sciences,12441,17,14,1,1,2,Yes,Frequently,14,1,3,No
+588,54,Finance,Accountant,Medical,11066,26,10,3,4,4,No,Rarely,22,3,5,No
+589,59,Research & Development,Manager,Medical,5190,27,7,2,2,1,No,Rarely,13,1,4,No
+590,59,Sales,Sales Executive,Technical Degree,16645,3,1,2,3,4,Yes,Travel_Rarely,12,7,2,No
+591,43,Human Resources,Manager,Life Sciences,17495,7,4,4,2,2,Yes,Travel_Rarely,17,3,3,No
+592,37,Finance,Sales Executive,Finance,11633,13,10,3,4,1,Yes,Frequently,27,7,2,No
+593,44,Research & Development,Laboratory Technician,Technical Degree,8731,8,2,3,4,1,No,Frequently,10,0,6,No
+594,52,Human Resources,Laboratory Technician,Medical,9274,24,7,3,3,1,No,Frequently,30,3,3,Yes
+595,60,Research & Development,Research Scientist,Life Sciences,16120,22,11,1,1,4,Yes,Rarely,10,2,5,Yes
+596,32,Finance,Laboratory Technician,Human Resources,17957,1,0,4,2,2,No,Rarely,27,3,1,Yes
+597,59,Research & Development,Manager,Marketing,5275,9,3,3,1,4,No,Frequently,3,4,5,No
+598,29,Sales,Research Scientist,Finance,7915,3,3,3,4,3,No,Travel_Rarely,14,7,4,No
+599,51,Research & Development,Accountant,Life Sciences,9211,27,9,3,4,1,No,Rarely,4,3,4,No
+600,47,Human Resources,Manager,Marketing,13849,3,2,2,4,2,Yes,Travel_Rarely,24,7,6,Yes
+601,43,Research & Development,Sales Executive,Human Resources,14405,10,4,4,2,2,No,Frequently,8,7,2,No
+602,44,Research & Development,Sales Executive,Medical,5716,0,0,3,3,3,No,Rarely,10,8,6,Yes
+603,55,Sales,Accountant,Medical,3276,21,12,1,4,2,Yes,Rarely,19,7,0,No
+604,36,Human Resources,Software Engineer,Human Resources,4653,14,14,3,3,3,Yes,Travel_Rarely,13,0,0,Yes
+605,41,Sales,Sales Executive,Finance,14494,17,12,4,1,3,Yes,Rarely,12,5,2,No
+606,28,Research & Development,Sales Executive,Life Sciences,17596,2,1,4,3,3,No,Rarely,4,8,5,No
+607,34,Sales,Research Scientist,Technical Degree,13616,0,0,1,1,2,No,Travel_Rarely,19,8,3,Yes
+608,47,Finance,Software Engineer,Marketing,2769,21,3,4,3,4,No,Rarely,25,5,6,Yes
+609,59,Research & Development,Laboratory Technician,Medical,8763,27,4,2,3,4,No,Frequently,3,5,1,Yes
+610,37,IT,Human Resources,Marketing,11097,15,12,2,4,3,Yes,Travel_Rarely,8,8,5,No
+611,35,IT,Manager,Marketing,12259,2,1,3,4,3,Yes,Rarely,12,0,2,Yes
+612,52,Finance,Research Scientist,Human Resources,2848,30,4,2,4,1,Yes,Travel_Rarely,9,4,1,No
+613,41,Finance,Accountant,Human Resources,6058,3,0,1,3,2,No,Frequently,18,0,3,No
+614,34,Human Resources,Human Resources,Marketing,2836,5,3,1,1,3,No,Frequently,13,0,1,Yes
+615,29,Human Resources,Human Resources,Marketing,8629,2,0,3,2,4,Yes,Rarely,8,9,6,Yes
+616,34,Finance,Human Resources,Medical,10602,4,0,4,1,1,No,Travel_Rarely,16,6,1,No
+617,39,Sales,Research Scientist,Human Resources,10178,16,13,3,1,4,Yes,Frequently,18,1,4,No
+618,42,Sales,Accountant,Technical Degree,17441,20,15,3,1,4,Yes,Travel_Rarely,19,3,6,No
+619,30,Research & Development,Research Scientist,Marketing,5261,4,3,2,1,1,Yes,Travel_Rarely,20,8,5,No
+620,22,Human Resources,Human Resources,Finance,11759,0,0,3,3,2,Yes,Travel_Rarely,16,8,6,Yes
+621,33,IT,Human Resources,Medical,4004,8,8,4,4,3,Yes,Travel_Rarely,30,0,2,No
+622,32,Finance,Human Resources,Technical Degree,13354,10,0,1,4,2,No,Rarely,29,4,4,Yes
+623,44,Sales,Research Scientist,Human Resources,12283,5,5,2,2,1,Yes,Rarely,13,2,5,Yes
+624,29,Human Resources,Human Resources,Marketing,11948,0,0,3,3,3,Yes,Rarely,24,0,4,No
+625,23,Human Resources,Sales Executive,Human Resources,11778,1,0,3,4,3,Yes,Rarely,17,5,2,No
+626,59,Research & Development,Accountant,Marketing,3551,1,1,3,1,3,Yes,Travel_Rarely,20,3,5,No
+627,47,Human Resources,Software Engineer,Life Sciences,8820,10,3,2,1,4,No,Travel_Rarely,26,0,0,Yes
+628,57,Human Resources,Research Scientist,Technical Degree,7866,27,13,3,2,4,Yes,Travel_Rarely,3,7,2,No
+629,49,Finance,Software Engineer,Finance,7492,9,1,4,4,1,No,Rarely,12,7,1,No
+630,25,IT,Accountant,Finance,6505,3,2,1,3,4,No,Rarely,24,7,6,No
+631,35,Research & Development,Manager,Finance,13488,8,1,3,2,4,No,Travel_Rarely,30,5,1,No
+632,30,Research & Development,Software Engineer,Human Resources,11997,3,3,4,2,3,Yes,Travel_Rarely,3,7,4,No
+633,24,IT,Sales Executive,Marketing,12669,2,0,3,3,4,Yes,Travel_Rarely,9,4,3,No
+634,47,IT,Research Scientist,Medical,16498,1,0,3,2,4,Yes,Frequently,12,6,3,Yes
+635,44,Sales,Research Scientist,Medical,12403,22,15,1,2,1,No,Frequently,2,2,1,No
+636,42,Sales,Accountant,Life Sciences,15772,19,0,4,2,1,No,Frequently,30,0,3,Yes
+637,59,Research & Development,Software Engineer,Marketing,8384,14,9,2,2,4,Yes,Frequently,15,8,4,No
+638,45,Sales,Sales Executive,Finance,11580,4,0,3,4,4,No,Frequently,15,6,3,No
+639,48,Research & Development,Manager,Marketing,11221,20,11,3,2,4,No,Frequently,23,2,1,No
+640,31,Sales,Accountant,Finance,6940,3,0,4,3,3,No,Travel_Rarely,29,4,1,No
+641,58,Research & Development,Research Scientist,Life Sciences,16891,26,12,2,1,1,No,Rarely,9,1,0,Yes
+642,51,Human Resources,Laboratory Technician,Marketing,8398,27,11,4,3,2,Yes,Rarely,13,7,6,Yes
+643,49,Finance,Research Scientist,Life Sciences,6461,8,6,3,2,1,Yes,Travel_Rarely,24,1,6,Yes
+644,52,IT,Manager,Finance,4087,24,11,1,3,2,Yes,Frequently,8,4,6,Yes
+645,22,Finance,Research Scientist,Marketing,6404,0,0,1,3,2,Yes,Rarely,22,9,4,Yes
+646,36,Research & Development,Manager,Marketing,11924,5,5,3,1,4,No,Travel_Rarely,8,0,0,No
+647,47,Sales,Sales Executive,Human Resources,16464,16,5,1,4,2,No,Travel_Rarely,13,5,2,No
+648,35,Research & Development,Sales Executive,Technical Degree,11954,7,4,3,2,1,No,Rarely,27,0,6,Yes
+649,56,IT,Manager,Life Sciences,11775,5,4,2,2,1,Yes,Rarely,23,8,1,Yes
+650,47,Human Resources,Sales Executive,Marketing,10482,4,1,4,2,2,No,Rarely,27,1,1,No
+651,25,Finance,Manager,Finance,9428,0,0,2,2,1,No,Rarely,7,6,6,Yes
+652,40,Research & Development,Laboratory Technician,Medical,7170,10,2,1,3,3,No,Frequently,20,3,2,No
+653,53,Human Resources,Manager,Medical,8765,15,11,4,4,1,No,Frequently,29,0,6,No
+654,22,IT,Sales Executive,Finance,4902,0,0,4,4,1,Yes,Travel_Rarely,6,9,5,Yes
+655,58,Human Resources,Accountant,Medical,9523,14,14,2,4,4,No,Travel_Rarely,27,3,4,No
+656,47,Finance,Accountant,Finance,11999,12,1,3,3,2,No,Travel_Rarely,8,7,6,No
+657,52,Finance,Human Resources,Marketing,17036,6,4,2,4,3,Yes,Frequently,24,2,6,Yes
+658,37,Sales,Human Resources,Technical Degree,6566,13,9,2,2,2,Yes,Rarely,5,4,4,Yes
+659,60,Research & Development,Research Scientist,Life Sciences,9215,1,0,2,1,3,Yes,Rarely,5,5,1,Yes
+660,25,Finance,Research Scientist,Marketing,5664,2,1,4,2,2,Yes,Travel_Rarely,15,7,1,Yes
+661,53,Sales,Sales Executive,Technical Degree,7052,4,1,4,2,4,No,Travel_Rarely,24,2,1,No
+662,32,Human Resources,Human Resources,Finance,7406,0,0,4,4,3,No,Rarely,4,0,0,No
+663,40,IT,Accountant,Technical Degree,13155,5,2,2,1,4,No,Rarely,22,6,2,Yes
+664,34,IT,Human Resources,Human Resources,13502,9,2,1,4,4,Yes,Rarely,23,0,1,No
+665,30,Human Resources,Accountant,Marketing,4314,2,0,3,1,3,No,Frequently,20,6,5,Yes
+666,46,Finance,Human Resources,Medical,5471,1,0,4,4,3,No,Rarely,25,9,5,Yes
+667,51,Research & Development,Human Resources,Technical Degree,15162,8,8,2,3,4,No,Rarely,16,1,1,No
+668,56,Human Resources,Software Engineer,Finance,8078,10,4,1,2,1,Yes,Rarely,7,6,0,Yes
+669,23,Human Resources,Laboratory Technician,Marketing,17679,0,0,2,2,2,Yes,Frequently,27,0,2,Yes
+670,39,Finance,Accountant,Medical,15270,15,5,1,4,3,Yes,Rarely,15,9,3,Yes
+671,34,Finance,Accountant,Finance,16711,6,5,2,2,3,No,Frequently,27,7,6,Yes
+672,33,Sales,Research Scientist,Technical Degree,2640,10,0,3,1,1,No,Rarely,24,3,4,No
+673,29,IT,Accountant,Human Resources,8456,1,1,4,4,2,No,Rarely,29,4,5,No
+674,44,Sales,Laboratory Technician,Human Resources,9043,13,9,3,1,4,No,Rarely,28,4,4,No
+675,24,Sales,Research Scientist,Life Sciences,6482,2,1,4,3,1,Yes,Rarely,10,4,4,Yes
+676,48,Finance,Sales Executive,Medical,9978,19,12,4,1,2,No,Travel_Rarely,4,1,5,No
+677,53,Finance,Human Resources,Life Sciences,11475,17,4,2,4,2,No,Travel_Rarely,13,2,6,No
+678,55,Research & Development,Laboratory Technician,Technical Degree,17488,10,5,1,4,2,No,Travel_Rarely,20,3,6,Yes
+679,57,Finance,Human Resources,Medical,15628,6,2,3,2,2,No,Frequently,20,8,3,No
+680,30,Human Resources,Software Engineer,Life Sciences,3811,3,1,2,1,4,Yes,Frequently,23,4,5,Yes
+681,25,Research & Development,Accountant,Finance,13728,3,1,1,2,1,Yes,Rarely,10,6,3,Yes
+682,40,Research & Development,Laboratory Technician,Life Sciences,11181,2,0,1,1,3,No,Travel_Rarely,19,4,1,No
+683,31,Sales,Manager,Medical,2629,1,1,4,1,4,Yes,Travel_Rarely,16,6,4,Yes
+684,52,Sales,Research Scientist,Marketing,5678,23,0,3,3,1,No,Travel_Rarely,4,6,1,No
+685,33,Human Resources,Manager,Technical Degree,5154,0,0,1,3,4,No,Frequently,1,4,1,Yes
+686,28,Finance,Laboratory Technician,Life Sciences,8005,1,1,4,4,3,No,Travel_Rarely,26,7,1,Yes
+687,32,Human Resources,Human Resources,Finance,9136,2,2,2,3,1,No,Frequently,22,1,0,Yes
+688,37,Sales,Laboratory Technician,Marketing,16709,11,5,2,4,2,No,Travel_Rarely,28,8,4,No
+689,31,Human Resources,Software Engineer,Medical,11135,9,7,1,1,4,No,Rarely,9,5,1,No
+690,58,Research & Development,Sales Executive,Marketing,3769,15,12,2,1,4,No,Travel_Rarely,18,8,1,No
+691,53,Sales,Software Engineer,Marketing,8093,24,1,4,4,1,No,Frequently,12,9,0,No
+692,31,Finance,Manager,Finance,12579,8,1,4,4,3,Yes,Travel_Rarely,28,1,0,No
+693,57,Research & Development,Laboratory Technician,Human Resources,14171,21,10,2,3,1,Yes,Travel_Rarely,14,1,4,No
+694,36,Finance,Software Engineer,Marketing,17359,4,3,4,1,3,No,Travel_Rarely,24,4,1,No
+695,35,IT,Research Scientist,Technical Degree,16680,1,1,2,2,4,No,Rarely,26,5,5,Yes
+696,57,Human Resources,Software Engineer,Marketing,12400,3,1,2,3,4,Yes,Travel_Rarely,29,3,0,No
+697,53,Research & Development,Laboratory Technician,Marketing,13680,3,3,2,2,3,Yes,Travel_Rarely,23,4,3,Yes
+698,42,Human Resources,Laboratory Technician,Marketing,13867,18,13,3,3,2,No,Travel_Rarely,6,0,4,No
+699,44,Sales,Manager,Human Resources,13905,6,5,4,3,4,Yes,Travel_Rarely,17,8,5,No
+700,55,IT,Sales Executive,Human Resources,10440,12,10,4,3,4,No,Rarely,27,0,4,Yes
+701,52,Finance,Human Resources,Life Sciences,16166,16,11,3,2,2,No,Frequently,30,6,4,No
+702,41,Research & Development,Research Scientist,Technical Degree,13030,4,0,1,2,3,Yes,Frequently,25,5,1,No
+703,26,Finance,Research Scientist,Medical,7103,2,0,4,3,1,No,Travel_Rarely,20,6,2,No
+704,60,Finance,Laboratory Technician,Finance,6578,21,7,3,1,2,Yes,Frequently,26,2,3,Yes
+705,24,Finance,Laboratory Technician,Human Resources,4740,2,1,1,3,1,Yes,Rarely,17,1,4,Yes
+706,41,Finance,Accountant,Human Resources,9993,7,4,4,3,1,Yes,Rarely,3,2,4,No
+707,48,Finance,Manager,Technical Degree,10031,11,3,1,4,1,No,Frequently,7,3,2,Yes
+708,40,IT,Research Scientist,Marketing,9769,12,10,1,1,4,No,Rarely,25,5,3,No
+709,43,IT,Research Scientist,Life Sciences,7662,18,7,4,4,2,Yes,Travel_Rarely,26,2,1,No
+710,44,Research & Development,Research Scientist,Medical,2798,12,11,1,4,4,No,Frequently,19,6,2,Yes
+711,33,IT,Human Resources,Life Sciences,7826,6,5,3,2,2,No,Rarely,27,5,1,No
+712,40,Human Resources,Laboratory Technician,Human Resources,12163,5,5,4,2,1,No,Travel_Rarely,10,0,2,No
+713,29,Human Resources,Manager,Technical Degree,3966,3,1,3,4,3,Yes,Frequently,11,6,4,Yes
+714,25,Research & Development,Research Scientist,Medical,12636,3,1,2,2,4,No,Rarely,11,2,4,Yes
+715,58,Research & Development,Research Scientist,Human Resources,14833,20,7,4,1,1,Yes,Travel_Rarely,25,5,5,Yes
+716,25,Human Resources,Software Engineer,Finance,11790,3,0,3,2,2,Yes,Frequently,11,5,0,Yes
+717,44,IT,Human Resources,Life Sciences,13168,22,1,4,3,3,Yes,Travel_Rarely,25,9,0,No
+718,50,Sales,Sales Executive,Technical Degree,16278,0,0,4,2,2,Yes,Frequently,3,0,2,Yes
+719,37,IT,Laboratory Technician,Medical,4273,13,3,1,1,3,No,Travel_Rarely,14,7,0,Yes
+720,59,Sales,Laboratory Technician,Life Sciences,13357,26,14,1,4,2,No,Travel_Rarely,20,9,5,No
+721,44,Human Resources,Human Resources,Life Sciences,8860,9,6,2,1,2,Yes,Frequently,17,8,1,Yes
+722,31,IT,Sales Executive,Life Sciences,3964,6,4,2,2,3,No,Rarely,20,0,0,No
+723,55,IT,Research Scientist,Medical,4039,16,3,3,2,2,No,Travel_Rarely,4,0,6,No
+724,51,Finance,Laboratory Technician,Human Resources,9845,8,2,4,1,4,Yes,Rarely,19,3,1,No
+725,48,Research & Development,Software Engineer,Medical,8163,13,8,2,4,4,No,Frequently,29,2,6,Yes
+726,52,Sales,Sales Executive,Life Sciences,17095,4,0,3,4,2,No,Rarely,26,6,0,No
+727,25,Sales,Software Engineer,Finance,17377,1,1,3,2,4,Yes,Frequently,12,3,1,Yes
+728,47,Human Resources,Laboratory Technician,Life Sciences,3192,6,4,1,3,2,No,Rarely,26,6,1,No
+729,27,Sales,Accountant,Finance,7177,3,3,4,2,3,No,Frequently,5,1,6,No
+730,58,Sales,Sales Executive,Medical,16353,24,9,1,2,1,Yes,Rarely,12,5,5,No
+731,48,Research & Development,Laboratory Technician,Human Resources,5994,8,5,1,4,3,No,Frequently,29,0,2,Yes
+732,36,Sales,Laboratory Technician,Life Sciences,15557,3,2,1,4,2,No,Rarely,18,2,6,No
+733,39,Finance,Laboratory Technician,Technical Degree,12463,5,4,2,1,4,No,Travel_Rarely,27,9,2,No
+734,25,Research & Development,Sales Executive,Finance,11582,1,1,1,2,1,Yes,Travel_Rarely,24,5,1,Yes
+735,27,Research & Development,Sales Executive,Technical Degree,12141,0,0,3,1,1,No,Travel_Rarely,23,6,3,No
+736,53,Finance,Research Scientist,Human Resources,10911,18,6,1,1,2,No,Frequently,13,5,4,Yes
+737,44,Research & Development,Manager,Technical Degree,17032,9,4,4,3,2,No,Rarely,27,6,1,No
+738,36,Sales,Laboratory Technician,Finance,10634,12,10,3,3,3,No,Rarely,10,2,5,No
+739,33,IT,Accountant,Marketing,5170,5,4,1,3,3,Yes,Travel_Rarely,8,7,6,No
+740,41,IT,Sales Executive,Finance,6770,3,2,1,3,1,No,Travel_Rarely,8,6,4,Yes
+741,24,Human Resources,Software Engineer,Human Resources,6067,0,0,4,2,1,No,Rarely,21,8,6,No
+742,36,IT,Sales Executive,Medical,11530,5,1,1,2,4,Yes,Travel_Rarely,17,4,3,Yes
+743,22,Finance,Accountant,Life Sciences,4813,0,0,3,4,2,No,Rarely,8,7,0,No
+744,46,Human Resources,Research Scientist,Life Sciences,2805,11,8,1,4,2,No,Frequently,14,8,3,No
+745,44,IT,Software Engineer,Medical,17006,5,4,3,1,2,No,Frequently,30,1,2,Yes
+746,49,Finance,Accountant,Technical Degree,4726,23,10,4,3,1,No,Rarely,8,3,3,No
+747,54,Sales,Manager,Technical Degree,9735,13,8,2,4,3,Yes,Rarely,26,7,5,Yes
+748,37,IT,Human Resources,Human Resources,8411,15,6,2,1,1,Yes,Rarely,5,8,3,No
+749,39,Human Resources,Human Resources,Finance,11058,17,1,2,3,1,Yes,Travel_Rarely,18,1,6,Yes
+750,32,Human Resources,Laboratory Technician,Technical Degree,7766,2,2,1,2,2,Yes,Rarely,14,5,4,Yes
+751,45,IT,Human Resources,Finance,12972,0,0,3,3,3,No,Travel_Rarely,22,6,5,No
+752,40,Finance,Sales Executive,Medical,12565,11,6,4,4,4,Yes,Travel_Rarely,27,0,2,Yes
+753,49,Human Resources,Accountant,Human Resources,5438,19,12,2,1,1,No,Travel_Rarely,26,2,1,Yes
+754,56,Sales,Sales Executive,Medical,3691,15,5,1,2,3,Yes,Frequently,28,5,5,No
+755,37,Finance,Sales Executive,Medical,9183,15,2,4,1,2,No,Travel_Rarely,8,6,6,Yes
+756,43,Finance,Research Scientist,Finance,6680,7,4,1,1,1,No,Rarely,6,6,2,Yes
+757,44,Finance,Sales Executive,Technical Degree,17774,10,6,4,2,1,Yes,Frequently,11,1,6,No
+758,36,IT,Research Scientist,Human Resources,5796,4,0,3,3,3,No,Rarely,13,1,2,No
+759,28,IT,Manager,Medical,3573,3,2,2,3,1,No,Travel_Rarely,21,8,6,No
+760,42,Research & Development,Software Engineer,Technical Degree,9757,7,7,1,1,1,Yes,Rarely,23,3,4,Yes
+761,49,IT,Laboratory Technician,Human Resources,14164,27,8,2,1,2,No,Frequently,18,8,5,No
+762,32,Research & Development,Laboratory Technician,Marketing,4796,5,5,1,3,2,No,Frequently,2,7,2,No
+763,56,Research & Development,Research Scientist,Finance,3748,23,2,2,4,1,No,Travel_Rarely,20,7,4,No
+764,56,IT,Laboratory Technician,Finance,13441,0,0,4,1,1,No,Travel_Rarely,17,1,0,No
+765,37,Research & Development,Research Scientist,Finance,12453,12,2,3,3,1,Yes,Travel_Rarely,16,5,2,Yes
+766,30,Human Resources,Software Engineer,Finance,12356,2,0,2,4,4,Yes,Travel_Rarely,8,6,1,No
+767,55,Research & Development,Human Resources,Life Sciences,11036,28,12,2,1,2,No,Travel_Rarely,6,8,2,No
+768,60,IT,Manager,Finance,17122,9,9,2,1,4,No,Travel_Rarely,18,7,3,No
+769,30,IT,Laboratory Technician,Human Resources,2978,3,2,4,1,1,No,Rarely,9,9,3,Yes
+770,38,Finance,Research Scientist,Life Sciences,2771,14,2,1,4,1,Yes,Travel_Rarely,23,4,3,Yes
+771,36,Research & Development,Laboratory Technician,Life Sciences,12373,14,1,1,1,4,No,Rarely,10,9,4,No
+772,52,Human Resources,Research Scientist,Technical Degree,7212,7,2,4,3,2,Yes,Frequently,9,4,2,Yes
+773,56,IT,Accountant,Finance,13224,28,9,1,4,4,Yes,Travel_Rarely,13,4,1,No
+774,30,Research & Development,Human Resources,Finance,17143,6,1,2,4,4,No,Travel_Rarely,23,6,6,Yes
+775,42,Finance,Manager,Marketing,3674,13,9,3,1,3,No,Travel_Rarely,25,1,3,No
+776,38,Sales,Sales Executive,Human Resources,7088,1,0,1,2,3,No,Rarely,28,9,6,No
+777,27,Finance,Accountant,Finance,14470,1,0,2,3,2,Yes,Travel_Rarely,20,4,2,Yes
+778,43,Human Resources,Accountant,Medical,12542,18,13,3,2,4,Yes,Travel_Rarely,24,8,3,Yes
+779,36,Research & Development,Software Engineer,Medical,6812,11,6,3,3,2,Yes,Rarely,17,2,5,No
+780,57,Sales,Manager,Marketing,10186,29,2,1,1,4,Yes,Frequently,15,5,2,No
+781,29,Research & Development,Research Scientist,Marketing,6293,3,3,4,3,2,No,Rarely,17,6,2,No
+782,31,Research & Development,Sales Executive,Human Resources,13285,3,0,2,4,2,Yes,Frequently,23,5,4,Yes
+783,46,IT,Accountant,Human Resources,3962,16,13,4,3,2,No,Frequently,19,1,3,No
+784,24,Sales,Accountant,Medical,15886,1,0,2,3,2,No,Travel_Rarely,16,4,5,No
+785,60,IT,Sales Executive,Human Resources,9889,26,7,3,4,4,Yes,Frequently,22,6,0,No
+786,22,Sales,Laboratory Technician,Finance,5216,0,0,3,4,4,Yes,Rarely,22,3,2,Yes
+787,24,Human Resources,Laboratory Technician,Human Resources,6329,0,0,4,3,3,Yes,Travel_Rarely,1,5,6,Yes
+788,44,IT,Accountant,Finance,6124,10,9,1,1,2,Yes,Rarely,4,4,0,Yes
+789,38,Research & Development,Software Engineer,Finance,14502,15,4,4,4,3,Yes,Rarely,20,2,3,No
+790,35,Finance,Accountant,Marketing,2946,12,12,3,3,1,Yes,Frequently,28,7,3,No
+791,44,Human Resources,Sales Executive,Human Resources,8469,17,5,2,2,3,No,Travel_Rarely,15,5,2,No
+792,36,Sales,Laboratory Technician,Human Resources,7157,3,2,4,3,3,Yes,Frequently,30,8,1,Yes
+793,45,Sales,Research Scientist,Life Sciences,8107,19,0,1,1,2,Yes,Travel_Rarely,30,8,4,Yes
+794,55,Research & Development,Accountant,Medical,11797,21,6,1,3,3,No,Rarely,29,8,5,No
+795,35,Finance,Software Engineer,Finance,6987,10,5,2,1,1,Yes,Travel_Rarely,14,8,5,Yes
+796,50,Finance,Software Engineer,Life Sciences,6935,20,12,1,2,3,No,Rarely,5,1,1,Yes
+797,38,Research & Development,Accountant,Life Sciences,15635,1,1,1,3,2,No,Travel_Rarely,30,5,0,Yes
+798,60,Research & Development,Laboratory Technician,Technical Degree,8968,4,3,4,4,3,No,Frequently,9,4,0,No
+799,26,Finance,Laboratory Technician,Finance,3949,0,0,2,1,3,Yes,Frequently,4,5,5,Yes
+800,43,Sales,Software Engineer,Human Resources,5221,5,2,2,1,2,Yes,Travel_Rarely,7,0,6,Yes
+801,54,Sales,Laboratory Technician,Finance,3012,23,3,4,1,2,Yes,Frequently,27,0,3,Yes
+802,57,Sales,Laboratory Technician,Technical Degree,10367,5,5,4,2,3,No,Frequently,18,9,0,No
+803,34,Sales,Manager,Medical,14203,1,1,1,1,1,Yes,Travel_Rarely,11,6,4,Yes
+804,38,Finance,Accountant,Medical,15890,1,1,4,3,3,No,Travel_Rarely,24,1,1,Yes
+805,28,Human Resources,Sales Executive,Life Sciences,16107,5,5,2,1,4,Yes,Rarely,14,0,3,Yes
+806,50,IT,Manager,Medical,5464,25,13,1,3,3,Yes,Frequently,12,9,2,No
+807,27,Human Resources,Research Scientist,Human Resources,5699,3,3,3,2,4,No,Travel_Rarely,1,5,0,Yes
+808,45,Research & Development,Research Scientist,Life Sciences,12099,14,6,3,2,3,No,Rarely,25,6,3,Yes
+809,56,IT,Accountant,Technical Degree,15361,29,12,2,3,4,Yes,Travel_Rarely,30,2,0,No
+810,55,Sales,Laboratory Technician,Life Sciences,8580,30,13,4,2,3,Yes,Frequently,26,0,5,Yes
+811,35,IT,Manager,Medical,13210,8,7,2,3,4,No,Frequently,23,2,0,No
+812,55,Research & Development,Sales Executive,Life Sciences,10470,17,12,1,4,1,No,Travel_Rarely,29,5,4,No
+813,22,Human Resources,Manager,Human Resources,2678,0,0,1,3,1,No,Frequently,21,5,1,Yes
+814,37,IT,Research Scientist,Technical Degree,17823,0,0,4,2,4,No,Frequently,11,0,0,Yes
+815,44,Human Resources,Research Scientist,Finance,5962,11,4,3,4,3,Yes,Travel_Rarely,2,3,5,No
+816,35,Human Resources,Accountant,Finance,15827,6,2,2,2,2,No,Rarely,29,0,4,No
+817,33,Finance,Manager,Marketing,4361,5,0,4,1,2,No,Frequently,15,4,1,No
+818,27,Sales,Research Scientist,Medical,17046,1,1,1,1,3,Yes,Frequently,23,9,4,No
+819,28,Research & Development,Laboratory Technician,Life Sciences,6418,3,2,2,1,3,Yes,Travel_Rarely,4,6,2,No
+820,26,IT,Software Engineer,Human Resources,10496,1,0,2,1,4,Yes,Travel_Rarely,23,5,6,Yes
+821,37,IT,Research Scientist,Marketing,3857,12,9,3,3,3,Yes,Travel_Rarely,23,1,0,No
+822,44,IT,Manager,Technical Degree,9226,2,1,4,3,2,Yes,Frequently,11,6,0,Yes
+823,22,IT,Software Engineer,Technical Degree,6144,0,0,2,4,4,No,Rarely,6,6,1,Yes
+824,28,Sales,Manager,Life Sciences,5661,1,1,4,1,2,No,Travel_Rarely,28,0,0,No
+825,31,IT,Software Engineer,Medical,16002,9,2,4,4,4,Yes,Travel_Rarely,16,8,6,No
+826,48,Research & Development,Human Resources,Finance,2783,16,15,2,3,2,Yes,Travel_Rarely,26,1,6,Yes
+827,57,Human Resources,Sales Executive,Medical,8757,6,4,3,1,3,Yes,Frequently,28,5,6,Yes
+828,47,Human Resources,Research Scientist,Medical,3492,10,9,1,1,4,Yes,Travel_Rarely,11,4,5,Yes
+829,45,Human Resources,Manager,Life Sciences,15153,23,0,1,4,1,No,Frequently,25,1,0,Yes
+830,45,Human Resources,Sales Executive,Marketing,6220,3,0,1,1,2,No,Travel_Rarely,16,7,1,No
+831,32,IT,Research Scientist,Technical Degree,3864,4,1,3,1,4,No,Travel_Rarely,10,0,1,No
+832,41,Sales,Human Resources,Medical,4648,12,1,1,1,2,No,Frequently,17,3,1,No
+833,41,Human Resources,Accountant,Technical Degree,10043,14,10,4,1,1,No,Frequently,15,4,6,No
+834,40,Sales,Human Resources,Medical,5405,13,11,1,2,4,Yes,Frequently,21,2,1,Yes
+835,54,IT,Software Engineer,Medical,13549,18,0,4,1,4,No,Rarely,17,7,6,No
+836,24,Human Resources,Human Resources,Medical,8494,0,0,3,2,3,Yes,Travel_Rarely,8,3,3,Yes
+837,28,Human Resources,Software Engineer,Finance,11761,5,3,4,4,1,Yes,Frequently,22,0,0,Yes
+838,46,Research & Development,Human Resources,Technical Degree,9933,21,15,4,2,4,Yes,Travel_Rarely,29,6,3,Yes
+839,27,Sales,Research Scientist,Finance,8531,3,3,3,1,2,Yes,Rarely,11,9,1,Yes
+840,35,IT,Research Scientist,Marketing,14986,0,0,2,1,1,Yes,Rarely,20,2,3,No
+841,25,IT,Manager,Finance,14528,1,0,2,2,4,Yes,Travel_Rarely,30,0,3,Yes
+842,47,Human Resources,Sales Executive,Human Resources,11247,0,0,1,2,4,Yes,Frequently,30,1,3,No
+843,47,Finance,Research Scientist,Human Resources,17496,15,3,4,2,2,Yes,Frequently,9,6,6,Yes
+844,34,IT,Accountant,Finance,17626,0,0,2,4,4,Yes,Travel_Rarely,2,3,3,Yes
+845,24,Research & Development,Software Engineer,Human Resources,15994,1,1,4,2,4,No,Frequently,19,1,3,No
+846,27,Research & Development,Manager,Life Sciences,4496,3,1,2,4,4,No,Rarely,27,5,5,Yes
+847,28,IT,Accountant,Human Resources,7075,2,1,4,3,1,No,Rarely,11,4,6,Yes
+848,26,Finance,Human Resources,Human Resources,9166,2,1,1,3,1,Yes,Travel_Rarely,5,8,6,Yes
+849,24,Sales,Manager,Human Resources,16928,1,0,2,1,4,Yes,Travel_Rarely,21,8,2,Yes
+850,59,Finance,Human Resources,Life Sciences,10507,9,7,1,3,3,No,Frequently,14,6,5,No
+851,31,Finance,Research Scientist,Marketing,6223,5,3,3,2,2,No,Frequently,9,9,1,No
+852,38,IT,Sales Executive,Marketing,16468,2,1,3,3,1,No,Rarely,12,6,3,No
+853,34,Research & Development,Accountant,Human Resources,11557,9,4,2,1,4,Yes,Frequently,18,4,2,No
+854,23,Finance,Laboratory Technician,Finance,5583,0,0,2,2,2,Yes,Rarely,8,2,2,Yes
+855,33,Sales,Human Resources,Life Sciences,9484,1,1,2,3,4,Yes,Travel_Rarely,21,3,1,Yes
+856,42,Research & Development,Software Engineer,Marketing,12951,15,7,4,1,2,No,Frequently,12,5,1,Yes
+857,42,Finance,Software Engineer,Human Resources,11545,20,11,2,2,3,No,Frequently,20,7,6,No
+858,28,Human Resources,Human Resources,Technical Degree,17740,0,0,2,2,2,No,Travel_Rarely,22,5,3,Yes
+859,31,Finance,Human Resources,Marketing,12161,9,5,1,3,2,No,Rarely,6,7,2,No
+860,31,Finance,Laboratory Technician,Marketing,17979,7,4,4,2,1,No,Travel_Rarely,25,6,0,No
+861,39,Finance,Software Engineer,Life Sciences,10619,11,9,3,2,2,Yes,Travel_Rarely,25,3,1,No
+862,53,Finance,Accountant,Medical,16557,25,8,3,3,2,Yes,Rarely,25,3,5,No
+863,44,Human Resources,Accountant,Technical Degree,15264,6,0,1,2,2,Yes,Rarely,15,0,4,No
+864,55,Sales,Accountant,Technical Degree,11287,2,2,2,1,2,Yes,Rarely,18,7,4,No
+865,51,Finance,Sales Executive,Medical,2808,9,6,4,1,3,Yes,Frequently,2,9,1,Yes
+866,57,IT,Sales Executive,Human Resources,15972,14,12,4,1,4,No,Frequently,10,2,1,No
+867,58,Human Resources,Software Engineer,Finance,7457,18,9,3,3,2,Yes,Rarely,16,0,3,No
+868,45,Sales,Research Scientist,Life Sciences,3045,20,8,4,2,1,No,Rarely,16,4,1,No
+869,51,IT,Human Resources,Medical,13945,12,2,1,3,2,Yes,Travel_Rarely,8,9,1,No
+870,33,Human Resources,Research Scientist,Life Sciences,13637,10,1,1,1,2,Yes,Rarely,12,1,6,No
+871,58,Finance,Laboratory Technician,Human Resources,8522,25,9,4,4,4,No,Frequently,23,7,5,No
+872,30,Sales,Software Engineer,Human Resources,13283,4,4,1,3,2,Yes,Rarely,20,8,4,Yes
+873,36,IT,Human Resources,Marketing,7981,7,6,3,4,4,No,Frequently,3,3,4,No
+874,27,Research & Development,Manager,Life Sciences,13316,3,2,4,2,1,No,Travel_Rarely,5,6,4,Yes
+875,42,Finance,Human Resources,Life Sciences,9139,12,12,1,3,3,Yes,Travel_Rarely,8,6,2,No
+876,37,Human Resources,Sales Executive,Human Resources,3489,12,3,4,4,3,No,Travel_Rarely,21,9,0,Yes
+877,33,Finance,Manager,Marketing,16413,4,0,4,1,4,No,Rarely,5,5,3,No
+878,49,Finance,Software Engineer,Life Sciences,14075,2,0,2,2,2,No,Travel_Rarely,13,6,1,Yes
+879,35,Human Resources,Sales Executive,Medical,9742,9,5,4,1,1,No,Travel_Rarely,7,7,0,No
+880,29,Research & Development,Accountant,Marketing,5672,7,2,2,3,1,No,Frequently,15,5,6,No
+881,26,Sales,Software Engineer,Marketing,10912,2,1,3,2,4,No,Rarely,22,3,6,Yes
+882,39,Human Resources,Sales Executive,Marketing,15635,7,3,1,3,4,Yes,Frequently,2,3,4,Yes
+883,24,IT,Laboratory Technician,Finance,3072,0,0,2,3,3,Yes,Travel_Rarely,30,8,6,No
+884,55,Research & Development,Manager,Finance,6700,13,3,1,1,3,Yes,Rarely,13,1,6,Yes
+885,49,Human Resources,Research Scientist,Medical,13421,15,11,4,1,2,Yes,Rarely,10,0,6,No
+886,53,Human Resources,Research Scientist,Life Sciences,10452,15,10,3,4,3,Yes,Rarely,14,9,5,No
+887,60,Finance,Human Resources,Life Sciences,9757,16,13,2,3,2,Yes,Travel_Rarely,4,0,2,No
+888,30,Human Resources,Human Resources,Human Resources,3335,6,6,2,1,4,No,Frequently,8,6,5,No
+889,52,Finance,Research Scientist,Medical,14002,30,14,4,4,3,No,Frequently,11,1,6,No
+890,45,Research & Development,Sales Executive,Human Resources,7284,15,8,3,1,3,No,Frequently,27,3,5,Yes
+891,51,Human Resources,Manager,Life Sciences,5991,2,1,1,2,2,Yes,Frequently,25,1,6,Yes
+892,33,Finance,Laboratory Technician,Finance,3834,4,3,3,4,3,Yes,Rarely,26,6,5,Yes
+893,41,IT,Sales Executive,Human Resources,14994,15,4,1,3,1,No,Frequently,18,4,4,No
+894,40,Research & Development,Human Resources,Marketing,11105,12,1,2,2,4,No,Rarely,4,3,3,No
+895,40,IT,Laboratory Technician,Technical Degree,2864,11,6,1,4,1,No,Rarely,4,1,1,Yes
+896,26,Finance,Software Engineer,Technical Degree,6650,1,1,2,1,1,No,Frequently,7,4,1,Yes
+897,31,Research & Development,Human Resources,Finance,16333,5,2,4,4,3,Yes,Travel_Rarely,21,7,0,Yes
+898,49,Sales,Software Engineer,Human Resources,3380,6,5,1,2,1,No,Rarely,17,8,0,Yes
+899,26,Finance,Research Scientist,Medical,5629,0,0,2,3,4,Yes,Travel_Rarely,29,7,5,Yes
+900,40,Sales,Research Scientist,Medical,6055,17,0,1,2,4,No,Frequently,1,0,3,No
+901,31,IT,Human Resources,Marketing,8738,5,0,1,3,2,No,Frequently,27,4,3,Yes
+902,37,IT,Sales Executive,Finance,16635,13,6,4,4,2,No,Rarely,22,8,3,Yes
+903,26,Research & Development,Accountant,Finance,17467,4,1,3,2,1,No,Frequently,29,2,0,Yes
+904,22,Human Resources,Laboratory Technician,Human Resources,17072,0,0,3,2,1,No,Frequently,3,8,2,No
+905,46,Human Resources,Laboratory Technician,Life Sciences,15426,12,5,1,3,4,Yes,Frequently,20,1,4,Yes
+906,44,IT,Research Scientist,Marketing,16009,18,4,1,1,3,Yes,Frequently,9,0,4,Yes
+907,23,IT,Manager,Technical Degree,13014,0,0,4,3,2,No,Rarely,10,9,2,No
+908,41,Finance,Software Engineer,Finance,4876,16,10,3,2,3,Yes,Rarely,30,3,2,No
+909,38,Human Resources,Manager,Life Sciences,17672,6,1,1,2,3,No,Rarely,7,0,6,Yes
+910,57,Research & Development,Laboratory Technician,Marketing,9067,12,3,2,1,1,No,Travel_Rarely,30,3,4,No
+911,30,IT,Software Engineer,Technical Degree,4743,2,1,1,2,2,No,Frequently,25,2,3,No
+912,39,Human Resources,Software Engineer,Medical,11220,10,2,3,1,1,No,Frequently,15,8,6,Yes
+913,49,Sales,Research Scientist,Marketing,3419,27,12,3,2,3,Yes,Travel_Rarely,19,3,0,No
+914,42,Sales,Research Scientist,Life Sciences,13172,12,0,2,3,3,Yes,Frequently,27,6,3,Yes
+915,43,Finance,Human Resources,Technical Degree,15957,15,13,4,3,4,Yes,Rarely,18,6,0,No
+916,50,Sales,Sales Executive,Medical,15893,11,7,2,3,2,No,Travel_Rarely,2,6,3,Yes
+917,39,Finance,Laboratory Technician,Finance,15849,8,8,2,4,3,Yes,Rarely,19,2,1,Yes
+918,26,Research & Development,Research Scientist,Life Sciences,8017,3,1,4,3,4,Yes,Rarely,25,1,2,No
+919,35,Human Resources,Accountant,Human Resources,11865,6,3,1,2,3,No,Frequently,4,7,0,No
+920,22,IT,Manager,Human Resources,11850,0,0,1,3,4,Yes,Travel_Rarely,10,4,3,Yes
+921,59,IT,Manager,Finance,9023,11,6,2,2,2,No,Travel_Rarely,15,9,0,No
+922,25,Human Resources,Laboratory Technician,Medical,13066,1,0,3,3,4,No,Travel_Rarely,27,6,6,No
+923,55,Finance,Laboratory Technician,Marketing,3209,17,5,1,2,3,No,Frequently,30,1,3,Yes
+924,36,Sales,Sales Executive,Marketing,3601,5,1,1,2,4,Yes,Frequently,3,2,5,Yes
+925,43,Sales,Software Engineer,Marketing,14861,18,2,1,4,1,No,Frequently,16,0,6,Yes
+926,34,Finance,Accountant,Medical,7995,1,1,2,3,4,No,Travel_Rarely,17,3,5,No
+927,40,IT,Laboratory Technician,Human Resources,2824,9,8,3,1,3,Yes,Frequently,21,7,5,Yes
+928,25,Research & Development,Research Scientist,Medical,2651,2,2,3,4,1,No,Frequently,5,7,5,Yes
+929,56,Finance,Software Engineer,Human Resources,12194,23,11,1,4,1,Yes,Travel_Rarely,4,5,0,No
+930,57,Human Resources,Laboratory Technician,Medical,12459,16,2,1,1,2,No,Frequently,25,3,1,No
+931,49,Research & Development,Research Scientist,Finance,14958,26,9,2,3,3,No,Rarely,23,2,2,No
+932,33,Finance,Laboratory Technician,Marketing,11419,4,3,3,3,1,No,Rarely,9,8,4,Yes
+933,33,Sales,Human Resources,Life Sciences,4048,7,1,1,1,4,Yes,Rarely,22,2,2,Yes
+934,26,Research & Development,Software Engineer,Life Sciences,17565,2,1,3,1,4,No,Travel_Rarely,10,9,3,Yes
+935,55,Research & Development,Sales Executive,Marketing,10246,7,6,3,1,3,No,Rarely,13,1,5,No
+936,53,Finance,Laboratory Technician,Life Sciences,13271,24,1,2,4,1,No,Travel_Rarely,12,6,6,Yes
+937,38,Research & Development,Sales Executive,Life Sciences,8176,10,5,1,3,3,No,Frequently,14,5,5,No
+938,23,Research & Development,Research Scientist,Life Sciences,6595,1,1,1,3,4,No,Frequently,17,7,4,Yes
+939,54,Research & Development,Manager,Finance,6361,17,14,1,3,2,No,Rarely,6,5,4,No
+940,58,Research & Development,Manager,Finance,10145,18,14,4,2,3,Yes,Travel_Rarely,10,1,6,No
+941,54,Finance,Manager,Medical,12755,21,5,3,2,4,No,Frequently,2,8,2,No
+942,26,Sales,Software Engineer,Technical Degree,5946,3,0,3,1,4,Yes,Frequently,24,9,4,No
+943,48,Research & Development,Laboratory Technician,Medical,10589,6,1,3,1,3,Yes,Travel_Rarely,6,4,6,No
+944,49,Research & Development,Software Engineer,Life Sciences,9381,20,14,4,2,4,No,Frequently,19,8,4,Yes
+945,60,Human Resources,Human Resources,Medical,15559,29,2,4,4,1,Yes,Frequently,20,0,5,Yes
+946,32,Sales,Human Resources,Human Resources,13732,4,1,3,4,3,No,Travel_Rarely,15,1,2,No
+947,22,Sales,Research Scientist,Life Sciences,11138,0,0,3,3,3,Yes,Frequently,28,6,0,No
+948,46,Human Resources,Accountant,Marketing,9710,5,3,3,3,3,Yes,Rarely,2,1,5,No
+949,31,IT,Accountant,Technical Degree,11272,8,1,2,4,2,Yes,Rarely,29,9,1,Yes
+950,33,IT,Accountant,Finance,17511,5,4,1,3,2,No,Frequently,16,0,2,Yes
+951,31,Finance,Laboratory Technician,Life Sciences,14152,9,4,1,2,2,Yes,Frequently,12,9,4,Yes
+952,36,Finance,Human Resources,Finance,2622,0,0,4,1,3,No,Travel_Rarely,20,7,6,No
+953,42,IT,Research Scientist,Finance,10501,5,1,2,2,3,No,Frequently,6,8,2,No
+954,29,IT,Accountant,Human Resources,5323,0,0,1,3,4,Yes,Rarely,6,4,2,Yes
+955,42,Human Resources,Accountant,Marketing,12163,19,7,2,2,3,No,Travel_Rarely,18,8,4,No
+956,30,IT,Manager,Human Resources,14034,5,3,4,1,2,Yes,Rarely,5,5,6,No
+957,44,IT,Research Scientist,Life Sciences,16236,7,4,4,2,4,No,Travel_Rarely,16,5,6,No
+958,35,IT,Accountant,Human Resources,6968,0,0,1,1,1,No,Rarely,27,7,4,Yes
+959,47,IT,Research Scientist,Technical Degree,4064,18,0,3,4,4,No,Frequently,8,6,4,No
+960,26,Sales,Sales Executive,Medical,9197,1,1,1,3,2,Yes,Rarely,14,1,0,Yes
+961,30,Sales,Research Scientist,Medical,16696,0,0,3,2,2,Yes,Frequently,20,8,5,Yes
+962,24,IT,Software Engineer,Technical Degree,16841,0,0,2,2,1,No,Travel_Rarely,2,9,1,Yes
+963,39,IT,Laboratory Technician,Medical,6170,1,1,2,1,4,Yes,Frequently,7,7,3,Yes
+964,22,Sales,Sales Executive,Technical Degree,14724,0,0,1,3,1,Yes,Travel_Rarely,21,3,4,No
+965,51,Sales,Manager,Human Resources,14892,14,2,2,3,3,Yes,Frequently,24,5,3,No
+966,47,Finance,Accountant,Life Sciences,5392,0,0,4,3,2,No,Travel_Rarely,3,7,3,No
+967,57,Human Resources,Human Resources,Life Sciences,14763,15,10,1,3,2,Yes,Travel_Rarely,15,8,1,No
+968,32,Sales,Research Scientist,Finance,13444,9,2,4,3,1,Yes,Rarely,3,9,2,Yes
+969,39,Finance,Research Scientist,Finance,12197,6,0,2,2,3,Yes,Travel_Rarely,7,6,2,Yes
+970,33,Research & Development,Human Resources,Life Sciences,16842,0,0,2,1,1,No,Travel_Rarely,16,1,0,No
+971,28,IT,Laboratory Technician,Finance,14691,3,3,2,1,4,No,Travel_Rarely,28,0,3,Yes
+972,56,Sales,Research Scientist,Technical Degree,7731,29,5,4,1,3,Yes,Travel_Rarely,25,9,2,No
+973,22,Research & Development,Human Resources,Marketing,14088,0,0,4,3,2,No,Frequently,24,3,4,No
+974,57,Human Resources,Accountant,Finance,8295,3,3,4,1,2,No,Frequently,18,8,1,No
+975,43,Human Resources,Human Resources,Human Resources,4613,20,3,4,4,3,Yes,Travel_Rarely,15,6,4,Yes
+976,47,IT,Software Engineer,Technical Degree,4120,16,15,4,3,3,No,Frequently,9,0,4,No
+977,23,Finance,Sales Executive,Human Resources,8375,1,1,2,3,1,Yes,Frequently,3,9,6,Yes
+978,41,Research & Development,Laboratory Technician,Medical,4037,18,8,3,3,1,Yes,Frequently,18,3,3,Yes
+979,50,Human Resources,Sales Executive,Human Resources,8010,13,6,4,3,1,No,Travel_Rarely,17,9,1,No
+980,53,IT,Research Scientist,Technical Degree,5645,10,0,1,1,2,Yes,Rarely,9,0,0,Yes
+981,57,Research & Development,Laboratory Technician,Medical,6695,17,8,2,1,1,No,Travel_Rarely,29,1,5,Yes
+982,46,Human Resources,Sales Executive,Medical,9033,23,9,1,3,1,No,Travel_Rarely,4,1,1,No
+983,60,Human Resources,Accountant,Technical Degree,3219,10,2,3,2,2,No,Rarely,10,5,4,No
+984,39,IT,Accountant,Finance,17789,15,8,1,2,1,Yes,Travel_Rarely,4,6,5,Yes
+985,54,IT,Manager,Marketing,11807,19,4,4,4,2,Yes,Rarely,12,4,5,Yes
+986,26,Finance,Manager,Finance,11618,4,0,2,4,1,Yes,Rarely,30,2,5,Yes
+987,33,IT,Sales Executive,Marketing,11744,2,1,1,1,2,No,Rarely,9,9,1,Yes
+988,24,Human Resources,Human Resources,Human Resources,15217,0,0,3,1,3,Yes,Frequently,12,2,6,No
+989,44,Research & Development,Sales Executive,Human Resources,12108,1,0,2,1,4,No,Frequently,12,1,1,No
+990,34,Sales,Research Scientist,Technical Degree,4145,4,1,2,4,2,No,Frequently,24,8,1,Yes
+991,58,Human Resources,Sales Executive,Finance,17121,6,6,2,2,3,No,Travel_Rarely,3,2,1,Yes
+992,45,Finance,Laboratory Technician,Human Resources,16376,5,2,4,2,1,Yes,Frequently,10,0,3,Yes
+993,23,Research & Development,Accountant,Human Resources,13262,0,0,2,2,2,Yes,Frequently,21,3,3,Yes
+994,43,Finance,Software Engineer,Human Resources,14456,17,10,3,1,4,Yes,Travel_Rarely,30,7,1,No
+995,30,IT,Research Scientist,Marketing,9782,3,3,1,3,1,Yes,Rarely,11,7,2,No
+996,44,Human Resources,Software Engineer,Finance,15710,7,7,2,3,2,Yes,Rarely,19,1,1,Yes
+997,50,Human Resources,Laboratory Technician,Marketing,14954,27,8,1,3,1,Yes,Frequently,19,0,6,No
+998,37,Sales,Accountant,Marketing,7386,6,1,4,4,4,No,Rarely,5,9,3,No
+999,26,Finance,Human Resources,Life Sciences,10356,1,0,2,3,1,Yes,Frequently,28,0,2,No
+1000,44,Research & Development,Research Scientist,Finance,8484,10,1,2,1,2,No,Rarely,26,6,0,No
+1001,47,Sales,Software Engineer,Human Resources,12403,0,0,1,2,2,Yes,Rarely,17,5,5,No
+1002,59,Human Resources,Sales Executive,Life Sciences,2605,23,1,3,1,4,No,Travel_Rarely,28,9,0,Yes
+1003,50,Finance,Sales Executive,Finance,5757,5,5,2,2,2,No,Rarely,26,6,3,No
+1004,56,Research & Development,Human Resources,Technical Degree,6481,21,2,3,4,3,No,Travel_Rarely,8,1,0,No
+1005,34,Research & Development,Software Engineer,Human Resources,15512,8,4,3,3,1,Yes,Frequently,15,3,1,No
+1006,46,IT,Sales Executive,Life Sciences,15568,1,0,2,2,3,No,Rarely,6,2,6,Yes
+1007,27,IT,Laboratory Technician,Finance,13498,0,0,3,3,2,Yes,Frequently,7,8,3,No
+1008,33,Sales,Manager,Finance,6728,2,2,1,2,4,No,Travel_Rarely,5,0,2,Yes
+1009,49,Sales,Sales Executive,Technical Degree,8194,17,11,1,1,2,No,Travel_Rarely,5,7,2,Yes
+1010,43,Finance,Human Resources,Technical Degree,2855,10,6,2,2,1,Yes,Frequently,3,5,6,No
+1011,52,IT,Sales Executive,Human Resources,17389,8,0,4,4,4,Yes,Rarely,19,1,6,No
+1012,23,IT,Software Engineer,Medical,12905,0,0,3,4,2,Yes,Rarely,29,2,1,No
+1013,35,Human Resources,Laboratory Technician,Finance,14531,8,0,1,3,2,No,Frequently,26,1,0,Yes
+1014,59,Human Resources,Software Engineer,Finance,10266,20,8,1,1,3,No,Frequently,10,5,6,Yes
+1015,57,IT,Laboratory Technician,Marketing,4063,12,0,3,3,4,Yes,Travel_Rarely,26,3,2,No
+1016,33,Sales,Human Resources,Medical,6826,11,1,4,2,2,No,Rarely,23,4,0,Yes
+1017,42,Finance,Software Engineer,Finance,6862,4,2,3,1,2,Yes,Rarely,24,0,6,Yes
+1018,51,IT,Accountant,Medical,8296,18,11,4,3,3,Yes,Frequently,23,8,1,No
+1019,48,Finance,Laboratory Technician,Human Resources,5286,1,0,1,1,2,No,Frequently,5,3,4,Yes
+1020,42,Research & Development,Human Resources,Marketing,13600,19,14,1,2,4,Yes,Rarely,18,8,1,No
+1021,53,IT,Research Scientist,Finance,11741,5,0,1,3,1,No,Rarely,1,2,4,No
+1022,34,Research & Development,Laboratory Technician,Human Resources,17750,11,8,1,3,3,Yes,Travel_Rarely,12,4,1,No
+1023,43,Sales,Research Scientist,Finance,11920,14,5,3,4,1,No,Rarely,20,4,5,Yes
+1024,54,Human Resources,Manager,Technical Degree,8843,23,1,4,4,4,No,Frequently,18,3,3,No
+1025,34,Human Resources,Research Scientist,Medical,10544,9,6,1,2,4,Yes,Rarely,30,7,6,Yes
+1026,30,IT,Human Resources,Human Resources,7595,1,0,4,2,1,No,Travel_Rarely,28,1,6,No
+1027,57,IT,Research Scientist,Life Sciences,14772,30,4,2,4,1,Yes,Travel_Rarely,10,7,1,Yes
+1028,39,Finance,Research Scientist,Finance,16586,3,1,1,4,3,No,Travel_Rarely,16,2,1,No
+1029,39,Finance,Manager,Medical,8160,13,0,1,1,1,No,Rarely,17,6,0,Yes
+1030,38,Sales,Manager,Technical Degree,4733,13,12,4,2,3,Yes,Frequently,21,6,4,Yes
+1031,39,Research & Development,Accountant,Medical,10330,13,0,3,4,2,Yes,Rarely,9,0,4,No
+1032,38,Finance,Accountant,Marketing,12246,5,2,4,1,2,No,Travel_Rarely,20,8,3,No
+1033,31,Research & Development,Manager,Human Resources,16013,7,4,3,3,4,No,Rarely,26,0,6,No
+1034,37,Finance,Software Engineer,Human Resources,10406,9,7,2,4,3,No,Frequently,17,4,1,No
+1035,57,IT,Human Resources,Life Sciences,9651,16,15,1,2,4,Yes,Travel_Rarely,27,3,0,Yes
+1036,23,Sales,Research Scientist,Life Sciences,4172,1,0,1,2,3,No,Travel_Rarely,20,5,6,Yes
+1037,54,IT,Accountant,Marketing,10234,0,0,1,2,1,Yes,Rarely,2,9,0,Yes
+1038,35,Human Resources,Accountant,Medical,17341,5,5,3,2,3,No,Frequently,24,9,0,No
+1039,35,IT,Sales Executive,Finance,17067,3,3,2,4,4,Yes,Frequently,13,5,2,No
+1040,46,IT,Sales Executive,Finance,17123,19,1,2,2,1,Yes,Travel_Rarely,26,8,3,Yes
+1041,56,Finance,Manager,Life Sciences,6915,7,3,2,2,2,No,Frequently,19,4,3,Yes
+1042,56,IT,Software Engineer,Life Sciences,16046,30,10,3,1,4,Yes,Frequently,7,3,5,Yes
+1043,44,Research & Development,Software Engineer,Life Sciences,9046,11,10,1,1,3,Yes,Rarely,29,1,2,No
+1044,47,Human Resources,Sales Executive,Human Resources,5935,1,1,3,4,4,No,Travel_Rarely,22,1,5,No
+1045,44,Research & Development,Manager,Medical,2558,18,10,4,4,2,No,Rarely,27,7,4,No
+1046,32,IT,Accountant,Medical,13992,1,0,2,2,2,Yes,Rarely,22,9,2,Yes
+1047,30,Sales,Manager,Finance,6054,2,0,3,2,4,No,Frequently,28,6,0,No
+1048,42,Finance,Laboratory Technician,Medical,13934,14,2,4,2,1,Yes,Rarely,28,3,3,No
+1049,53,Sales,Human Resources,Technical Degree,15605,22,12,1,4,4,No,Rarely,14,7,0,No
+1050,56,Finance,Human Resources,Technical Degree,14888,20,9,2,1,4,Yes,Travel_Rarely,19,0,0,Yes
+1051,52,IT,Software Engineer,Technical Degree,12965,5,5,2,3,4,No,Frequently,4,1,1,No
+1052,36,IT,Human Resources,Human Resources,11098,12,0,4,3,2,Yes,Rarely,28,0,5,Yes
+1053,27,IT,Accountant,Medical,17206,5,2,2,4,1,Yes,Rarely,24,7,5,Yes
+1054,55,Human Resources,Sales Executive,Finance,10347,14,14,3,2,2,Yes,Rarely,24,0,1,No
+1055,33,IT,Laboratory Technician,Life Sciences,7932,10,7,4,3,3,No,Rarely,21,1,2,Yes
+1056,43,Research & Development,Research Scientist,Finance,7341,2,0,2,4,3,No,Travel_Rarely,18,1,3,No
+1057,45,IT,Human Resources,Finance,11309,21,12,1,4,4,Yes,Frequently,27,3,4,No
+1058,54,Sales,Sales Executive,Marketing,7924,1,1,4,3,3,No,Frequently,15,9,0,No
+1059,58,Sales,Accountant,Life Sciences,15525,6,6,4,4,3,No,Travel_Rarely,30,6,3,No
+1060,35,Research & Development,Sales Executive,Human Resources,12792,1,1,4,2,2,No,Frequently,12,8,6,Yes
+1061,59,Research & Development,Software Engineer,Life Sciences,15455,4,2,4,3,3,Yes,Travel_Rarely,10,9,3,Yes
+1062,40,IT,Sales Executive,Finance,11955,10,7,3,3,3,No,Travel_Rarely,23,6,5,No
+1063,55,Human Resources,Manager,Human Resources,8493,18,9,1,4,3,No,Frequently,18,8,4,No
+1064,46,IT,Laboratory Technician,Human Resources,16695,13,11,1,3,3,Yes,Travel_Rarely,23,7,1,Yes
+1065,25,Finance,Manager,Medical,17846,2,2,4,1,3,Yes,Travel_Rarely,15,0,1,No
+1066,40,Research & Development,Sales Executive,Technical Degree,8417,2,0,1,2,3,Yes,Rarely,16,1,3,Yes
+1067,27,Sales,Software Engineer,Technical Degree,14382,2,0,3,2,2,Yes,Travel_Rarely,9,1,4,Yes
+1068,54,Human Resources,Laboratory Technician,Finance,16525,1,1,3,4,1,Yes,Rarely,22,0,6,Yes
+1069,27,Human Resources,Laboratory Technician,Marketing,3759,4,2,4,3,1,Yes,Frequently,11,3,0,Yes
+1070,53,Human Resources,Accountant,Finance,9352,16,13,4,1,2,Yes,Rarely,2,8,6,Yes
+1071,56,Finance,Software Engineer,Medical,4277,6,6,1,2,4,Yes,Rarely,18,8,2,Yes
+1072,45,Human Resources,Software Engineer,Life Sciences,3825,21,10,4,4,3,No,Frequently,11,2,0,No
+1073,59,Finance,Research Scientist,Marketing,11851,21,4,3,4,4,No,Travel_Rarely,2,0,0,No
+1074,37,Finance,Software Engineer,Marketing,13472,8,0,4,1,1,Yes,Travel_Rarely,13,4,1,No
+1075,42,Human Resources,Human Resources,Human Resources,7816,9,5,4,3,1,Yes,Rarely,13,0,3,No
+1076,29,Human Resources,Sales Executive,Life Sciences,14285,0,0,1,1,3,Yes,Frequently,11,9,0,Yes
+1077,46,Finance,Software Engineer,Human Resources,15822,21,3,3,1,2,Yes,Travel_Rarely,14,6,0,Yes
+1078,25,IT,Sales Executive,Marketing,9920,1,1,4,3,1,No,Travel_Rarely,20,5,2,No
+1079,44,Human Resources,Manager,Medical,15495,19,15,3,2,1,Yes,Frequently,11,7,0,Yes
+1080,50,Human Resources,Research Scientist,Life Sciences,2691,26,6,4,3,4,No,Rarely,27,6,6,No
+1081,47,Sales,Accountant,Technical Degree,12971,8,8,2,1,1,Yes,Rarely,23,6,3,Yes
+1082,46,Finance,Human Resources,Marketing,5211,11,0,2,1,3,Yes,Rarely,29,1,3,No
+1083,48,IT,Laboratory Technician,Life Sciences,4178,7,6,1,4,2,No,Rarely,12,4,0,No
+1084,44,IT,Software Engineer,Finance,14731,15,13,3,1,1,Yes,Rarely,23,4,4,Yes
+1085,52,Finance,Software Engineer,Marketing,4264,15,9,3,2,1,Yes,Rarely,13,8,2,No
+1086,56,IT,Accountant,Technical Degree,16882,6,6,2,4,3,Yes,Frequently,30,6,4,No
+1087,43,Sales,Human Resources,Human Resources,2891,16,3,3,1,2,No,Rarely,17,9,3,No
+1088,48,Research & Development,Laboratory Technician,Marketing,9395,7,6,4,2,1,Yes,Rarely,17,1,3,Yes
+1089,37,Human Resources,Accountant,Life Sciences,7764,15,2,4,4,4,No,Travel_Rarely,6,5,4,No
+1090,50,Research & Development,Laboratory Technician,Human Resources,7212,3,1,3,4,4,Yes,Rarely,12,6,0,No
+1091,36,Sales,Research Scientist,Marketing,15372,6,1,4,4,4,No,Travel_Rarely,25,6,1,No
+1092,36,Human Resources,Human Resources,Life Sciences,2723,5,1,4,3,4,Yes,Rarely,3,1,5,Yes
+1093,26,Human Resources,Human Resources,Medical,10901,0,0,4,2,2,No,Rarely,20,5,6,Yes
+1094,31,Sales,Sales Executive,Life Sciences,9339,8,4,4,2,3,No,Rarely,20,4,6,No
+1095,30,Research & Development,Software Engineer,Marketing,5885,5,5,2,4,4,No,Travel_Rarely,27,3,2,Yes
+1096,35,Research & Development,Software Engineer,Human Resources,6634,4,1,2,3,2,Yes,Frequently,8,0,6,Yes
+1097,55,Finance,Sales Executive,Finance,12981,6,1,1,2,2,No,Frequently,23,7,6,No
+1098,46,Finance,Manager,Medical,13440,2,2,2,4,2,Yes,Rarely,17,0,2,No
+1099,31,IT,Laboratory Technician,Medical,16678,3,3,2,1,4,No,Frequently,27,0,3,No
+1100,44,Human Resources,Accountant,Technical Degree,8291,9,5,2,3,1,No,Frequently,30,1,3,Yes
+1101,58,Finance,Sales Executive,Technical Degree,14507,7,5,4,1,4,No,Frequently,19,2,1,No
+1102,40,Human Resources,Accountant,Human Resources,13042,5,1,4,4,3,No,Travel_Rarely,7,0,0,No
+1103,33,Sales,Manager,Human Resources,12464,9,6,2,3,1,Yes,Frequently,17,3,4,No
+1104,58,Human Resources,Human Resources,Human Resources,12343,23,6,1,3,3,No,Frequently,10,0,4,No
+1105,51,IT,Research Scientist,Technical Degree,4874,0,0,3,2,4,Yes,Frequently,11,8,3,Yes
+1106,56,Research & Development,Accountant,Human Resources,7042,3,3,4,1,1,No,Frequently,23,2,1,No
+1107,58,IT,Software Engineer,Finance,14698,23,15,1,4,2,Yes,Rarely,7,1,6,No
+1108,36,IT,Accountant,Human Resources,5884,10,1,3,4,3,No,Rarely,29,1,4,No
+1109,37,Human Resources,Human Resources,Medical,12138,12,4,1,1,4,Yes,Frequently,28,2,6,Yes
+1110,59,Finance,Sales Executive,Human Resources,10571,12,4,2,1,2,Yes,Travel_Rarely,11,7,5,No
+1111,47,Finance,Laboratory Technician,Finance,16394,24,6,3,2,3,No,Travel_Rarely,29,6,1,Yes
+1112,40,Research & Development,Accountant,Finance,13063,5,0,1,1,1,Yes,Travel_Rarely,28,6,0,No
+1113,46,Research & Development,Software Engineer,Human Resources,6308,0,0,3,2,2,Yes,Frequently,10,0,0,Yes
+1114,34,IT,Human Resources,Medical,13608,3,0,4,3,2,No,Rarely,9,0,6,No
+1115,50,Human Resources,Laboratory Technician,Finance,5479,4,1,1,1,2,No,Frequently,29,8,1,No
+1116,43,Human Resources,Sales Executive,Human Resources,14664,3,3,2,4,1,Yes,Travel_Rarely,13,5,4,Yes
+1117,46,Research & Development,Accountant,Marketing,3165,22,6,4,1,2,No,Rarely,24,3,0,No
+1118,42,Sales,Sales Executive,Marketing,3569,15,13,4,4,4,No,Rarely,29,7,2,No
+1119,46,Research & Development,Manager,Marketing,13014,0,0,2,3,2,No,Travel_Rarely,28,9,1,No
+1120,43,Finance,Manager,Medical,13297,16,10,1,1,1,No,Travel_Rarely,26,8,5,No
+1121,45,Finance,Research Scientist,Technical Degree,10502,14,2,3,1,2,Yes,Travel_Rarely,3,0,0,No
+1122,42,Human Resources,Accountant,Marketing,2556,19,15,3,1,1,No,Rarely,2,9,1,No
+1123,27,Research & Development,Research Scientist,Finance,17191,3,2,3,3,3,Yes,Rarely,26,8,4,Yes
+1124,58,Finance,Software Engineer,Life Sciences,10825,0,0,2,2,2,No,Rarely,9,7,0,Yes
+1125,36,Finance,Accountant,Human Resources,9501,7,2,4,4,2,No,Travel_Rarely,29,5,5,No
+1126,56,IT,Research Scientist,Technical Degree,11821,0,0,4,2,4,No,Travel_Rarely,26,5,2,No
+1127,33,Finance,Manager,Medical,5741,1,0,3,3,4,No,Rarely,20,0,4,No
+1128,39,Sales,Human Resources,Medical,14188,8,6,1,1,2,No,Travel_Rarely,28,1,5,No
+1129,36,Human Resources,Manager,Life Sciences,12486,10,5,3,4,3,No,Rarely,11,3,3,No
+1130,31,Human Resources,Sales Executive,Life Sciences,16233,8,1,2,3,3,No,Travel_Rarely,18,1,3,Yes
+1131,45,IT,Accountant,Human Resources,11205,7,3,2,3,2,No,Frequently,7,5,5,Yes
+1132,26,IT,Sales Executive,Finance,11780,1,1,1,3,2,Yes,Frequently,21,3,4,Yes
+1133,44,Sales,Software Engineer,Life Sciences,4696,3,2,4,2,4,No,Travel_Rarely,18,0,5,No
+1134,54,IT,Accountant,Technical Degree,14555,13,3,1,3,4,Yes,Frequently,28,6,4,Yes
+1135,37,Finance,Human Resources,Marketing,10459,12,7,2,2,2,No,Frequently,16,5,5,No
+1136,22,Human Resources,Laboratory Technician,Finance,14260,0,0,3,3,3,Yes,Rarely,11,4,0,No
+1137,60,Human Resources,Software Engineer,Finance,16877,27,12,3,3,4,No,Rarely,10,9,5,No
+1138,33,Research & Development,Human Resources,Marketing,9074,9,9,4,2,3,Yes,Travel_Rarely,1,7,4,No
+1139,23,IT,Sales Executive,Life Sciences,17684,1,1,3,3,4,No,Frequently,27,8,5,Yes
+1140,55,Sales,Accountant,Medical,2609,16,0,1,4,1,No,Frequently,19,3,3,No
+1141,25,Human Resources,Accountant,Finance,15692,0,0,4,2,2,No,Rarely,12,9,2,Yes
+1142,60,Research & Development,Human Resources,Technical Degree,16524,5,2,4,2,3,Yes,Travel_Rarely,7,4,0,No
+1143,58,Research & Development,Laboratory Technician,Medical,2986,18,5,1,1,1,Yes,Frequently,26,5,5,Yes
+1144,29,Sales,Laboratory Technician,Human Resources,11648,4,0,2,2,3,Yes,Rarely,20,1,2,No
+1145,31,Research & Development,Accountant,Technical Degree,17755,7,3,1,4,1,No,Frequently,25,1,4,Yes
+1146,45,Finance,Software Engineer,Human Resources,9349,15,0,2,3,1,Yes,Rarely,28,2,0,No
+1147,60,Human Resources,Sales Executive,Life Sciences,10304,9,0,2,1,1,No,Rarely,28,2,0,Yes
+1148,26,Finance,Manager,Finance,16428,1,1,4,1,3,No,Frequently,7,7,6,No
+1149,46,IT,Research Scientist,Finance,5534,8,5,3,2,3,No,Travel_Rarely,9,0,0,No
+1150,27,Human Resources,Research Scientist,Marketing,10472,1,0,2,1,2,No,Rarely,14,3,3,No
+1151,36,Finance,Manager,Finance,12235,9,3,4,1,4,No,Travel_Rarely,4,5,3,No
+1152,37,Sales,Human Resources,Human Resources,3318,7,5,2,1,1,No,Frequently,18,9,1,No
+1153,60,Human Resources,Laboratory Technician,Life Sciences,4501,0,0,3,1,1,No,Frequently,15,3,3,Yes
+1154,41,IT,Manager,Finance,13901,8,1,4,2,4,No,Travel_Rarely,1,1,6,No
+1155,31,IT,Accountant,Marketing,14457,3,0,1,1,1,Yes,Travel_Rarely,16,0,3,No
+1156,52,Research & Development,Laboratory Technician,Life Sciences,16346,15,12,3,1,1,Yes,Travel_Rarely,2,9,2,No
+1157,52,Sales,Manager,Life Sciences,4116,14,8,2,4,1,Yes,Travel_Rarely,13,1,4,No
+1158,27,Human Resources,Research Scientist,Medical,10209,0,0,3,4,4,No,Frequently,9,1,4,Yes
+1159,22,IT,Sales Executive,Finance,5703,0,0,4,2,2,Yes,Travel_Rarely,25,2,0,No
+1160,43,Research & Development,Human Resources,Life Sciences,9882,11,9,2,3,2,Yes,Travel_Rarely,30,5,5,Yes
+1161,23,IT,Research Scientist,Finance,2849,1,1,2,4,4,No,Travel_Rarely,1,4,1,Yes
+1162,34,Research & Development,Sales Executive,Marketing,10194,4,3,4,2,2,Yes,Frequently,5,1,2,No
+1163,59,Sales,Software Engineer,Technical Degree,11854,20,10,4,4,1,No,Frequently,18,8,1,No
+1164,31,Human Resources,Laboratory Technician,Marketing,12069,9,8,2,3,3,Yes,Rarely,10,6,3,No
+1165,27,Finance,Manager,Marketing,13447,1,0,4,3,1,No,Rarely,19,2,0,No
+1166,27,Human Resources,Research Scientist,Technical Degree,16642,4,2,4,2,1,No,Rarely,8,6,1,No
+1167,43,Research & Development,Human Resources,Finance,5916,18,14,2,2,1,No,Rarely,4,6,6,No
+1168,34,Research & Development,Human Resources,Human Resources,15516,1,1,4,1,4,No,Rarely,13,2,0,No
+1169,34,Finance,Software Engineer,Life Sciences,5346,4,1,4,3,1,No,Rarely,16,1,5,Yes
+1170,53,IT,Software Engineer,Life Sciences,5497,7,1,4,1,1,No,Frequently,1,8,1,No
+1171,25,Research & Development,Software Engineer,Finance,12582,1,1,3,3,2,Yes,Rarely,6,0,2,Yes
+1172,23,Research & Development,Software Engineer,Human Resources,12046,0,0,1,3,1,No,Frequently,18,3,6,Yes
+1173,35,Finance,Manager,Finance,4965,0,0,2,3,2,No,Frequently,8,9,1,No
+1174,39,Sales,Human Resources,Technical Degree,12129,7,3,4,3,3,Yes,Rarely,3,5,0,No
+1175,57,Finance,Sales Executive,Finance,17748,13,2,1,2,2,No,Frequently,21,4,2,Yes
+1176,41,Sales,Software Engineer,Human Resources,4838,14,13,3,4,4,Yes,Frequently,4,7,5,No
+1177,51,Human Resources,Sales Executive,Finance,5487,15,15,3,1,4,No,Frequently,20,3,2,No
+1178,34,IT,Sales Executive,Medical,9024,8,3,4,1,1,No,Travel_Rarely,16,9,5,No
+1179,34,Finance,Sales Executive,Life Sciences,9194,11,9,3,4,3,No,Frequently,17,9,3,No
+1180,23,Finance,Software Engineer,Life Sciences,6349,1,1,1,2,1,Yes,Rarely,1,3,6,Yes
+1181,53,IT,Research Scientist,Life Sciences,7140,16,7,2,2,1,No,Frequently,30,1,0,No
+1182,53,Human Resources,Manager,Life Sciences,10734,7,3,3,1,4,No,Rarely,20,4,0,No
+1183,54,Human Resources,Accountant,Life Sciences,4321,26,11,3,2,3,Yes,Frequently,28,6,5,Yes
+1184,51,IT,Manager,Human Resources,14500,12,6,3,4,2,Yes,Travel_Rarely,14,5,5,Yes
+1185,32,Sales,Sales Executive,Finance,8800,8,3,2,4,1,Yes,Frequently,19,1,5,Yes
+1186,41,IT,Sales Executive,Finance,2532,7,0,2,1,2,Yes,Travel_Rarely,25,6,4,Yes
+1187,46,Research & Development,Software Engineer,Life Sciences,4043,15,5,4,1,4,Yes,Frequently,29,0,5,Yes
+1188,24,Research & Development,Accountant,Life Sciences,7721,1,1,4,2,3,Yes,Rarely,9,1,2,Yes
+1189,31,IT,Research Scientist,Technical Degree,6644,6,6,1,3,1,Yes,Rarely,27,0,4,Yes
+1190,28,Finance,Laboratory Technician,Human Resources,4630,0,0,4,1,3,Yes,Travel_Rarely,3,4,6,Yes
+1191,33,Human Resources,Accountant,Human Resources,5729,3,0,3,1,2,Yes,Rarely,9,6,1,Yes
+1192,23,Sales,Sales Executive,Technical Degree,9690,0,0,3,1,4,No,Rarely,9,2,3,Yes
+1193,38,Human Resources,Human Resources,Medical,6121,3,0,2,3,3,Yes,Frequently,9,7,6,No
+1194,36,Sales,Research Scientist,Human Resources,16750,11,3,1,4,4,Yes,Travel_Rarely,19,8,1,Yes
+1195,57,Research & Development,Sales Executive,Life Sciences,6743,29,8,1,4,3,No,Rarely,12,1,5,Yes
+1196,58,Sales,Software Engineer,Finance,16386,19,8,4,1,1,No,Frequently,11,8,5,No
+1197,46,Finance,Software Engineer,Medical,10022,19,15,1,2,1,Yes,Rarely,17,8,2,No
+1198,29,IT,Manager,Medical,15624,4,0,3,3,3,No,Rarely,9,5,5,No
+1199,37,Sales,Human Resources,Technical Degree,10980,1,1,2,1,2,Yes,Travel_Rarely,26,8,6,Yes
+1200,47,Sales,Software Engineer,Technical Degree,5490,11,7,3,3,3,No,Frequently,19,7,1,Yes
+1201,23,Research & Development,Research Scientist,Life Sciences,3806,1,0,3,1,4,Yes,Travel_Rarely,28,6,3,Yes
+1202,35,IT,Human Resources,Finance,2872,9,0,4,4,3,Yes,Frequently,1,0,1,No
+1203,38,Human Resources,Sales Executive,Medical,17962,14,12,4,2,4,Yes,Rarely,19,7,4,No
+1204,45,Finance,Manager,Finance,2510,21,14,2,1,3,Yes,Rarely,28,8,3,No
+1205,49,Sales,Software Engineer,Medical,9220,16,14,4,2,3,No,Frequently,5,1,6,No
+1206,59,Human Resources,Human Resources,Life Sciences,7338,16,5,4,4,1,No,Rarely,14,6,1,No
+1207,41,IT,Research Scientist,Technical Degree,5906,6,1,1,2,2,Yes,Rarely,16,6,3,Yes
+1208,51,Sales,Research Scientist,Human Resources,7144,22,2,2,3,3,No,Travel_Rarely,21,3,4,Yes
+1209,33,Research & Development,Software Engineer,Life Sciences,17671,8,6,2,1,4,No,Rarely,23,7,3,Yes
+1210,43,Sales,Research Scientist,Technical Degree,16731,18,9,2,2,1,No,Rarely,16,5,0,No
+1211,39,Sales,Manager,Technical Degree,11530,17,9,4,2,2,No,Rarely,7,6,5,Yes
+1212,30,IT,Manager,Marketing,16610,6,0,1,2,3,Yes,Frequently,3,0,4,Yes
+1213,52,Research & Development,Software Engineer,Medical,2679,1,1,1,3,3,No,Frequently,24,5,5,Yes
+1214,42,Sales,Software Engineer,Medical,2852,19,2,1,4,3,Yes,Frequently,21,5,1,Yes
+1215,36,Finance,Manager,Marketing,13329,2,2,2,3,2,No,Rarely,20,8,4,Yes
+1216,41,Human Resources,Human Resources,Human Resources,3365,5,1,2,4,1,Yes,Travel_Rarely,23,2,0,No
+1217,53,IT,Human Resources,Technical Degree,12350,20,7,3,2,2,Yes,Rarely,28,9,4,No
+1218,34,Finance,Accountant,Technical Degree,13038,11,2,3,1,3,Yes,Travel_Rarely,26,2,1,No
+1219,49,Human Resources,Sales Executive,Medical,14001,23,1,4,4,2,No,Travel_Rarely,29,0,3,Yes
+1220,50,Finance,Human Resources,Medical,7303,9,8,3,3,3,Yes,Travel_Rarely,2,8,0,No
+1221,27,Sales,Manager,Technical Degree,15581,2,2,1,2,2,Yes,Rarely,1,6,2,Yes
+1222,25,IT,Sales Executive,Technical Degree,15596,0,0,3,3,4,No,Travel_Rarely,6,1,2,No
+1223,47,Sales,Manager,Life Sciences,15146,9,5,2,1,1,No,Rarely,19,4,6,No
+1224,52,Sales,Software Engineer,Medical,7818,18,14,4,2,3,No,Rarely,24,1,0,No
+1225,44,Research & Development,Software Engineer,Technical Degree,10227,12,7,2,2,1,Yes,Rarely,4,4,0,No
+1226,38,Research & Development,Software Engineer,Finance,12983,6,2,3,1,3,No,Travel_Rarely,14,9,5,No
+1227,49,Finance,Manager,Technical Degree,16032,8,3,1,2,4,Yes,Travel_Rarely,18,0,4,Yes
+1228,60,Human Resources,Software Engineer,Finance,14911,9,8,3,3,4,No,Travel_Rarely,28,8,2,Yes
+1229,35,Sales,Manager,Life Sciences,11133,8,1,4,2,4,No,Travel_Rarely,16,6,3,No
+1230,45,Human Resources,Software Engineer,Life Sciences,4190,4,2,3,3,3,Yes,Travel_Rarely,26,0,3,No
+1231,50,Human Resources,Software Engineer,Finance,10428,0,0,3,2,2,Yes,Travel_Rarely,22,9,2,Yes
+1232,38,Sales,Sales Executive,Technical Degree,6247,14,9,4,1,1,No,Frequently,9,5,0,No
+1233,27,Human Resources,Laboratory Technician,Human Resources,6800,5,5,1,3,3,Yes,Travel_Rarely,18,3,5,No
+1234,26,IT,Software Engineer,Marketing,7037,3,3,2,4,3,Yes,Rarely,10,9,1,Yes
+1235,38,Sales,Software Engineer,Human Resources,17761,12,0,1,3,1,No,Travel_Rarely,6,8,1,No
+1236,34,Research & Development,Accountant,Marketing,17823,0,0,1,3,1,Yes,Frequently,30,8,0,No
+1237,29,IT,Software Engineer,Life Sciences,2932,6,0,4,1,4,No,Frequently,6,8,0,Yes
+1238,46,Human Resources,Manager,Human Resources,2756,9,9,3,1,3,No,Travel_Rarely,28,1,1,No
+1239,30,Finance,Software Engineer,Human Resources,4475,0,0,4,2,4,No,Frequently,29,0,0,Yes
+1240,33,Sales,Research Scientist,Life Sciences,8063,3,1,3,3,1,No,Rarely,18,3,0,No
+1241,58,Research & Development,Laboratory Technician,Medical,2545,9,0,4,3,3,Yes,Rarely,20,5,4,Yes
+1242,37,Research & Development,Manager,Human Resources,15525,0,0,4,4,1,Yes,Rarely,22,0,5,No
+1243,46,Sales,Laboratory Technician,Human Resources,16287,14,13,3,3,2,No,Travel_Rarely,10,9,6,No
+1244,48,Finance,Laboratory Technician,Finance,12751,13,8,3,1,3,No,Frequently,21,4,1,No
+1245,37,Human Resources,Research Scientist,Medical,15434,3,2,4,3,1,Yes,Rarely,11,3,3,No
+1246,38,IT,Software Engineer,Human Resources,15280,10,2,1,2,2,No,Frequently,21,2,2,Yes
+1247,58,Human Resources,Manager,Marketing,17649,16,2,4,4,4,No,Frequently,21,9,0,No
+1248,57,Human Resources,Research Scientist,Technical Degree,6742,25,0,1,2,2,No,Rarely,23,9,6,Yes
+1249,49,Human Resources,Accountant,Marketing,4996,11,3,3,1,2,Yes,Rarely,17,7,5,Yes
+1250,42,Research & Development,Human Resources,Human Resources,16768,8,1,2,4,4,Yes,Travel_Rarely,11,9,4,Yes
+1251,38,Research & Development,Accountant,Medical,4522,2,1,4,1,3,Yes,Rarely,7,8,2,Yes
+1252,43,Human Resources,Human Resources,Marketing,8469,1,1,2,3,3,Yes,Frequently,1,0,5,Yes
+1253,28,Research & Development,Human Resources,Marketing,17731,6,4,4,2,2,Yes,Travel_Rarely,15,4,2,No
+1254,37,Research & Development,Laboratory Technician,Medical,8468,10,9,2,3,1,No,Travel_Rarely,9,1,0,No
+1255,52,Sales,Sales Executive,Medical,8399,22,5,2,2,1,No,Frequently,11,3,2,No
+1256,57,Human Resources,Research Scientist,Human Resources,8390,25,7,3,1,1,Yes,Travel_Rarely,7,9,3,No
+1257,33,Human Resources,Software Engineer,Marketing,12996,4,2,1,4,2,No,Frequently,11,3,2,No
+1258,53,IT,Software Engineer,Finance,3277,7,6,1,4,2,Yes,Travel_Rarely,28,4,3,No
+1259,25,Finance,Laboratory Technician,Technical Degree,15378,0,0,4,3,2,Yes,Travel_Rarely,15,9,6,No
+1260,39,Research & Development,Software Engineer,Life Sciences,4676,2,0,2,3,3,Yes,Frequently,12,0,2,Yes
+1261,24,Research & Development,Manager,Marketing,10472,2,0,1,1,4,No,Rarely,29,9,1,Yes
+1262,25,Research & Development,Human Resources,Medical,17076,1,1,3,1,2,Yes,Frequently,16,2,6,Yes
+1263,42,IT,Accountant,Finance,9900,3,0,1,3,3,No,Travel_Rarely,21,9,0,No
+1264,56,IT,Manager,Marketing,8937,23,10,1,1,3,Yes,Frequently,23,2,0,Yes
+1265,40,IT,Sales Executive,Medical,6257,16,5,2,1,1,No,Frequently,27,0,4,No
+1266,59,Finance,Laboratory Technician,Life Sciences,12111,22,2,2,3,1,No,Frequently,1,4,5,Yes
+1267,52,Human Resources,Laboratory Technician,Life Sciences,6675,30,8,4,2,1,No,Travel_Rarely,13,3,1,Yes
+1268,45,Finance,Software Engineer,Marketing,8717,8,2,3,2,4,No,Frequently,2,0,3,Yes
+1269,40,Finance,Software Engineer,Human Resources,3098,12,12,1,2,1,No,Rarely,24,4,2,Yes
+1270,28,Research & Development,Research Scientist,Human Resources,5250,5,4,1,3,2,No,Frequently,28,1,4,No
+1271,28,Sales,Human Resources,Life Sciences,17956,4,0,4,1,4,No,Rarely,15,3,3,No
+1272,55,Human Resources,Manager,Technical Degree,5512,0,0,1,1,2,Yes,Travel_Rarely,2,9,1,Yes
+1273,22,Research & Development,Research Scientist,Marketing,5319,0,0,3,2,4,Yes,Frequently,26,0,0,Yes
+1274,29,Sales,Accountant,Marketing,12503,7,4,1,3,4,No,Travel_Rarely,26,6,1,No
+1275,52,Finance,Research Scientist,Medical,4023,9,0,2,1,3,Yes,Rarely,28,2,1,Yes
+1276,30,Finance,Sales Executive,Medical,8749,2,1,2,1,3,No,Frequently,2,0,1,Yes
+1277,45,Research & Development,Sales Executive,Technical Degree,14220,12,1,3,4,3,Yes,Frequently,21,2,0,No
+1278,43,Sales,Human Resources,Technical Degree,17038,0,0,4,4,4,No,Travel_Rarely,21,6,3,No
+1279,29,Human Resources,Software Engineer,Life Sciences,11501,4,0,1,1,1,No,Travel_Rarely,2,2,5,Yes
+1280,41,IT,Sales Executive,Human Resources,6061,8,5,1,4,1,No,Rarely,6,3,5,Yes
+1281,41,Human Resources,Manager,Medical,15174,18,1,2,4,4,Yes,Frequently,8,0,6,Yes
+1282,58,Human Resources,Manager,Marketing,13232,24,0,3,1,4,No,Rarely,22,9,5,No
+1283,56,Sales,Human Resources,Medical,15848,6,0,3,3,1,Yes,Travel_Rarely,12,7,0,No
+1284,59,IT,Accountant,Marketing,13439,21,1,3,4,4,Yes,Travel_Rarely,24,0,1,No
+1285,37,Human Resources,Laboratory Technician,Human Resources,4739,15,13,4,3,4,No,Rarely,29,3,0,No
+1286,40,Research & Development,Sales Executive,Marketing,5208,8,8,1,3,1,Yes,Travel_Rarely,12,8,4,Yes
+1287,29,Finance,Manager,Life Sciences,10899,1,0,3,1,1,No,Rarely,12,5,0,Yes
+1288,26,IT,Research Scientist,Human Resources,11134,1,0,2,1,3,Yes,Travel_Rarely,22,7,2,Yes
+1289,46,IT,Accountant,Technical Degree,13245,4,2,2,2,1,Yes,Frequently,1,1,4,No
+1290,60,Sales,Accountant,Technical Degree,15571,30,15,3,2,1,Yes,Rarely,7,4,6,Yes
+1291,46,Human Resources,Research Scientist,Human Resources,5731,5,5,3,4,4,No,Travel_Rarely,29,0,4,No
+1292,48,Human Resources,Research Scientist,Finance,17180,12,7,4,1,4,No,Rarely,9,2,2,No
+1293,54,Research & Development,Research Scientist,Medical,15164,21,1,4,4,1,Yes,Travel_Rarely,9,1,1,Yes
+1294,50,Research & Development,Research Scientist,Finance,8682,26,3,1,1,4,Yes,Frequently,2,2,4,No
+1295,35,Sales,Sales Executive,Technical Degree,17670,6,6,2,2,1,Yes,Frequently,29,6,2,Yes
+1296,31,Sales,Sales Executive,Life Sciences,5020,8,1,3,4,1,Yes,Frequently,29,5,0,No
+1297,44,Sales,Sales Executive,Life Sciences,17721,3,0,1,4,2,No,Travel_Rarely,24,1,4,No
+1298,43,Sales,Human Resources,Medical,13934,12,7,3,1,1,Yes,Travel_Rarely,12,3,4,Yes
+1299,34,Human Resources,Sales Executive,Finance,4642,12,8,3,2,3,Yes,Rarely,23,7,6,No
+1300,26,IT,Laboratory Technician,Human Resources,8712,0,0,2,1,2,No,Rarely,25,2,4,Yes
+1301,23,IT,Research Scientist,Human Resources,10957,1,0,3,1,1,Yes,Rarely,13,7,2,No
+1302,39,IT,Research Scientist,Medical,11579,3,1,2,3,1,Yes,Frequently,29,4,4,No
+1303,22,IT,Sales Executive,Human Resources,11674,0,0,4,3,3,Yes,Rarely,7,3,2,No
+1304,36,Finance,Laboratory Technician,Finance,9899,2,0,2,3,2,Yes,Frequently,11,0,3,No
+1305,59,Research & Development,Accountant,Technical Degree,4331,0,0,1,2,4,No,Frequently,25,2,2,Yes
+1306,57,Research & Development,Manager,Life Sciences,10478,14,0,1,3,3,Yes,Frequently,13,9,3,No
+1307,54,IT,Research Scientist,Finance,12823,12,0,1,1,2,No,Frequently,27,6,5,Yes
+1308,25,Sales,Sales Executive,Life Sciences,14250,3,2,3,2,4,No,Frequently,30,2,6,No
+1309,52,Finance,Human Resources,Technical Degree,5580,20,12,2,3,4,No,Travel_Rarely,14,5,1,Yes
+1310,52,Finance,Laboratory Technician,Life Sciences,17000,22,10,2,2,2,No,Rarely,13,2,1,No
+1311,40,Finance,Software Engineer,Life Sciences,16068,7,7,2,4,1,No,Rarely,2,7,5,No
+1312,32,Finance,Software Engineer,Technical Degree,5268,6,2,3,4,4,Yes,Frequently,22,3,2,No
+1313,29,Sales,Sales Executive,Technical Degree,3660,1,1,4,3,2,Yes,Frequently,21,4,1,Yes
+1314,40,Sales,Software Engineer,Marketing,7135,7,5,4,4,4,Yes,Rarely,5,7,1,No
+1315,52,Human Resources,Research Scientist,Medical,10870,17,8,2,1,4,No,Rarely,12,1,1,No
+1316,22,Finance,Laboratory Technician,Technical Degree,2919,0,0,1,4,1,No,Travel_Rarely,4,8,6,Yes
+1317,49,IT,Manager,Marketing,12132,9,5,1,1,2,No,Travel_Rarely,6,1,3,Yes
+1318,37,Finance,Sales Executive,Technical Degree,3026,15,7,1,3,3,Yes,Frequently,28,8,6,Yes
+1319,38,Research & Development,Sales Executive,Life Sciences,11125,12,6,2,2,1,Yes,Travel_Rarely,22,0,4,No
+1320,26,Finance,Software Engineer,Technical Degree,11453,2,2,2,3,1,Yes,Rarely,7,2,4,Yes
+1321,34,Human Resources,Research Scientist,Human Resources,6733,1,1,4,4,1,No,Travel_Rarely,12,7,6,Yes
+1322,44,Sales,Software Engineer,Medical,3734,13,5,1,1,1,No,Frequently,1,2,4,Yes
+1323,54,Finance,Manager,Marketing,6855,9,2,3,4,1,No,Travel_Rarely,3,5,5,No
+1324,44,IT,Human Resources,Technical Degree,2980,15,14,4,1,1,Yes,Rarely,10,4,4,No
+1325,52,Sales,Manager,Technical Degree,4383,27,13,2,4,3,No,Frequently,3,9,0,No
+1326,60,Sales,Sales Executive,Finance,6580,18,11,2,1,1,Yes,Travel_Rarely,24,4,2,No
+1327,23,Human Resources,Software Engineer,Technical Degree,5924,0,0,1,3,3,Yes,Frequently,18,0,1,Yes
+1328,60,Finance,Manager,Finance,11565,21,4,3,2,4,Yes,Travel_Rarely,3,8,3,No
+1329,46,IT,Software Engineer,Human Resources,14195,19,1,3,4,2,No,Frequently,6,4,6,No
+1330,22,IT,Sales Executive,Technical Degree,16710,0,0,1,2,2,No,Frequently,17,8,5,Yes
+1331,56,Finance,Human Resources,Marketing,7869,12,2,3,2,4,No,Frequently,15,2,5,Yes
+1332,37,IT,Sales Executive,Marketing,10325,6,4,4,1,2,Yes,Frequently,10,8,6,No
+1333,36,IT,Sales Executive,Life Sciences,5631,7,2,3,1,2,No,Frequently,10,6,4,No
+1334,52,Human Resources,Manager,Finance,15379,9,7,4,1,2,No,Rarely,28,9,1,Yes
+1335,39,Research & Development,Software Engineer,Life Sciences,11527,8,6,2,4,4,No,Travel_Rarely,11,6,0,No
+1336,24,Sales,Accountant,Marketing,7508,1,0,2,1,2,No,Rarely,16,3,5,Yes
+1337,25,IT,Laboratory Technician,Finance,12732,3,1,2,2,3,Yes,Frequently,26,0,3,No
+1338,56,IT,Human Resources,Life Sciences,5090,12,5,3,4,3,No,Frequently,11,1,6,No
+1339,58,IT,Sales Executive,Human Resources,7475,29,15,1,1,3,No,Frequently,23,2,3,Yes
+1340,56,IT,Sales Executive,Finance,7903,6,4,2,1,4,No,Rarely,15,4,3,No
+1341,56,Human Resources,Manager,Human Resources,9645,0,0,3,3,3,No,Rarely,23,0,2,Yes
+1342,50,Finance,Research Scientist,Life Sciences,17435,15,8,3,3,4,No,Travel_Rarely,15,7,5,No
+1343,32,IT,Research Scientist,Life Sciences,14982,0,0,3,1,1,No,Frequently,9,9,6,Yes
+1344,50,IT,Manager,Finance,16567,5,0,3,4,3,Yes,Travel_Rarely,22,3,6,No
+1345,38,IT,Sales Executive,Life Sciences,4583,2,0,2,3,1,No,Frequently,15,7,0,No
+1346,41,IT,Manager,Marketing,7761,3,0,3,1,4,No,Rarely,24,5,0,No
+1347,40,Human Resources,Human Resources,Finance,14914,12,12,1,2,3,No,Frequently,16,7,6,No
+1348,31,Research & Development,Manager,Human Resources,14457,8,8,1,1,1,No,Frequently,24,9,6,Yes
+1349,40,IT,Research Scientist,Finance,12384,1,1,3,3,2,Yes,Travel_Rarely,15,7,5,Yes
+1350,24,Research & Development,Human Resources,Finance,16681,2,1,3,4,3,No,Rarely,30,9,5,No
+1351,28,Finance,Laboratory Technician,Finance,16295,4,3,3,4,4,No,Travel_Rarely,29,4,6,No
+1352,50,IT,Research Scientist,Medical,15297,28,9,3,2,1,No,Frequently,27,2,4,Yes
+1353,51,Human Resources,Accountant,Marketing,15046,26,9,3,3,1,No,Frequently,17,8,0,No
+1354,34,Sales,Software Engineer,Marketing,10130,5,4,1,3,3,Yes,Frequently,27,7,3,No
+1355,31,Research & Development,Laboratory Technician,Medical,4816,2,0,2,4,1,Yes,Frequently,9,5,4,Yes
+1356,33,Research & Development,Sales Executive,Technical Degree,9422,1,1,1,2,2,Yes,Frequently,3,2,3,Yes
+1357,44,Finance,Manager,Medical,9916,17,3,1,2,2,Yes,Rarely,10,0,1,Yes
+1358,44,Sales,Laboratory Technician,Human Resources,10107,19,15,4,1,2,No,Travel_Rarely,24,1,0,Yes
+1359,35,Sales,Software Engineer,Life Sciences,7367,0,0,1,4,3,No,Rarely,12,5,6,No
+1360,29,Sales,Laboratory Technician,Technical Degree,13641,6,5,2,4,1,No,Rarely,10,9,6,No
+1361,24,Sales,Manager,Life Sciences,7011,1,0,1,4,3,Yes,Rarely,14,1,4,Yes
+1362,41,IT,Sales Executive,Life Sciences,10752,7,6,2,3,4,No,Frequently,12,1,2,Yes
+1363,50,Sales,Accountant,Human Resources,11164,20,13,3,2,4,No,Frequently,15,5,1,No
+1364,48,Research & Development,Manager,Life Sciences,2511,6,0,1,4,2,Yes,Rarely,18,9,6,Yes
+1365,54,Human Resources,Manager,Human Resources,14849,4,2,1,4,4,No,Frequently,27,5,0,Yes
+1366,40,IT,Laboratory Technician,Human Resources,9692,11,11,1,3,2,Yes,Frequently,8,3,4,Yes
+1367,46,Research & Development,Laboratory Technician,Technical Degree,6681,6,6,4,4,4,Yes,Frequently,30,4,4,No
+1368,23,Human Resources,Sales Executive,Finance,6014,0,0,1,4,1,Yes,Travel_Rarely,20,9,6,Yes
+1369,55,Sales,Software Engineer,Human Resources,5646,1,0,2,2,1,Yes,Frequently,23,8,5,Yes
+1370,55,Human Resources,Accountant,Medical,6463,14,9,3,2,1,Yes,Travel_Rarely,25,6,2,No
+1371,38,Finance,Sales Executive,Marketing,6527,8,1,4,1,4,No,Frequently,4,2,0,Yes
+1372,52,Research & Development,Laboratory Technician,Technical Degree,5897,9,3,2,2,1,Yes,Rarely,16,3,5,No
+1373,50,Finance,Accountant,Life Sciences,3785,25,10,4,1,3,Yes,Frequently,20,9,4,No
+1374,22,Finance,Manager,Finance,11511,0,0,3,2,2,No,Frequently,12,8,2,Yes
+1375,25,Sales,Accountant,Marketing,12383,2,1,3,1,2,Yes,Travel_Rarely,4,1,1,Yes
+1376,35,Human Resources,Manager,Finance,15805,5,2,2,1,2,No,Frequently,22,3,2,Yes
+1377,23,Sales,Software Engineer,Technical Degree,6762,0,0,4,3,4,Yes,Travel_Rarely,22,8,1,No
+1378,44,Research & Development,Sales Executive,Finance,14136,20,10,3,1,4,No,Rarely,25,9,0,No
+1379,57,IT,Sales Executive,Medical,5878,1,0,4,2,2,Yes,Rarely,5,4,3,Yes
+1380,43,Research & Development,Accountant,Technical Degree,10824,3,0,1,1,2,No,Frequently,27,9,1,Yes
+1381,31,Research & Development,Laboratory Technician,Human Resources,15433,0,0,1,2,2,Yes,Travel_Rarely,27,7,2,Yes
+1382,46,Human Resources,Research Scientist,Marketing,12926,18,1,1,4,4,Yes,Frequently,27,7,2,Yes
+1383,56,Finance,Accountant,Life Sciences,12557,1,1,2,3,2,Yes,Rarely,16,4,2,No
+1384,55,IT,Software Engineer,Technical Degree,10140,30,0,1,1,3,Yes,Rarely,30,6,5,Yes
+1385,52,Research & Development,Sales Executive,Technical Degree,16214,29,2,1,3,1,No,Travel_Rarely,4,1,1,No
+1386,40,Research & Development,Sales Executive,Human Resources,3322,5,0,4,1,3,No,Rarely,11,4,0,Yes
+1387,40,IT,Manager,Technical Degree,11808,9,7,4,1,4,No,Travel_Rarely,7,0,4,Yes
+1388,31,Research & Development,Research Scientist,Finance,7935,5,0,2,1,2,No,Frequently,30,9,0,Yes
+1389,37,Research & Development,Manager,Medical,13451,7,4,1,4,4,Yes,Travel_Rarely,16,5,2,No
+1390,56,Human Resources,Software Engineer,Medical,8420,17,4,1,2,1,Yes,Frequently,26,0,0,Yes
+1391,46,Research & Development,Sales Executive,Medical,7653,6,1,4,4,3,No,Frequently,24,4,4,No
+1392,33,Research & Development,Laboratory Technician,Life Sciences,11092,3,1,4,3,2,No,Rarely,15,4,1,No
+1393,55,Human Resources,Software Engineer,Medical,5322,12,2,3,1,2,No,Travel_Rarely,3,8,1,No
+1394,36,Finance,Software Engineer,Life Sciences,14873,10,5,4,3,4,No,Rarely,21,6,0,No
+1395,50,Sales,Laboratory Technician,Marketing,4803,20,10,2,1,2,Yes,Frequently,4,5,1,No
+1396,56,IT,Software Engineer,Marketing,13332,17,1,4,4,2,Yes,Rarely,13,5,6,No
+1397,26,Finance,Laboratory Technician,Marketing,7494,4,4,1,3,3,No,Travel_Rarely,3,3,6,Yes
+1398,49,IT,Sales Executive,Medical,10175,17,9,4,4,1,Yes,Frequently,26,7,0,No
+1399,28,Human Resources,Manager,Marketing,16636,4,2,2,4,4,Yes,Rarely,12,2,6,No
+1400,31,Finance,Research Scientist,Marketing,14954,3,0,4,1,3,No,Rarely,20,5,1,Yes
+1401,35,Research & Development,Manager,Marketing,16526,6,4,2,1,1,No,Travel_Rarely,4,9,2,No
+1402,52,Human Resources,Laboratory Technician,Marketing,3284,8,0,2,1,4,No,Travel_Rarely,9,6,2,Yes
+1403,60,Research & Development,Laboratory Technician,Human Resources,5193,17,2,3,1,4,No,Rarely,29,9,1,No
+1404,34,Finance,Sales Executive,Life Sciences,14671,4,1,4,2,4,Yes,Rarely,28,7,4,Yes
+1405,58,Sales,Manager,Finance,14528,27,11,2,3,1,No,Rarely,8,5,1,No
+1406,60,Sales,Manager,Marketing,10828,29,15,2,3,1,Yes,Frequently,12,0,3,No
+1407,43,IT,Manager,Life Sciences,10473,18,2,4,3,3,No,Frequently,3,6,1,No
+1408,39,Research & Development,Sales Executive,Medical,14429,12,9,2,3,2,No,Rarely,28,6,2,No
+1409,46,Research & Development,Accountant,Human Resources,7070,11,10,4,3,1,Yes,Travel_Rarely,30,7,0,No
+1410,58,IT,Software Engineer,Life Sciences,11809,20,2,1,4,4,Yes,Travel_Rarely,12,4,3,No
+1411,60,IT,Research Scientist,Medical,12722,29,13,2,1,2,No,Rarely,21,9,1,No
+1412,25,Sales,Laboratory Technician,Finance,11275,3,2,1,2,1,Yes,Frequently,25,9,2,No
+1413,48,Sales,Manager,Life Sciences,5011,22,9,1,1,3,No,Travel_Rarely,16,5,3,No
+1414,29,Research & Development,Sales Executive,Finance,11530,1,1,1,2,4,Yes,Frequently,11,3,0,Yes
+1415,31,Finance,Software Engineer,Finance,2755,0,0,4,4,2,No,Travel_Rarely,19,8,4,Yes
+1416,50,Sales,Software Engineer,Finance,3977,26,8,1,4,4,No,Frequently,25,3,5,No
+1417,58,IT,Research Scientist,Finance,4760,3,1,4,2,1,Yes,Rarely,28,0,5,Yes
+1418,28,Sales,Software Engineer,Human Resources,9369,2,0,1,4,3,Yes,Travel_Rarely,30,8,6,Yes
+1419,39,Finance,Laboratory Technician,Technical Degree,14886,17,13,2,2,3,Yes,Rarely,27,7,2,Yes
+1420,60,Research & Development,Research Scientist,Marketing,17931,18,1,1,1,4,No,Frequently,19,6,3,No
+1421,51,Research & Development,Sales Executive,Technical Degree,4450,27,5,4,4,4,No,Frequently,13,8,3,No
+1422,28,Human Resources,Software Engineer,Finance,5424,5,2,3,4,3,Yes,Frequently,9,3,5,Yes
+1423,50,Human Resources,Human Resources,Technical Degree,9563,15,14,1,1,2,Yes,Frequently,10,6,4,No
+1424,47,Finance,Laboratory Technician,Technical Degree,8657,6,4,4,2,3,No,Rarely,5,4,1,No
+1425,44,IT,Research Scientist,Technical Degree,9135,5,2,1,4,3,No,Travel_Rarely,12,2,6,Yes
+1426,48,IT,Laboratory Technician,Medical,7423,25,3,3,4,4,No,Travel_Rarely,11,8,2,No
+1427,53,Research & Development,Manager,Technical Degree,10376,19,13,4,4,2,Yes,Frequently,15,5,2,No
+1428,57,Finance,Laboratory Technician,Finance,13419,18,10,1,1,4,Yes,Rarely,16,0,4,No
+1429,32,Research & Development,Human Resources,Human Resources,7544,7,0,4,4,4,No,Frequently,28,2,3,Yes
+1430,48,Sales,Sales Executive,Technical Degree,14487,14,14,2,3,1,Yes,Travel_Rarely,13,8,3,Yes
+1431,46,Finance,Software Engineer,Marketing,17069,11,0,2,2,4,No,Frequently,16,0,1,No
+1432,28,IT,Sales Executive,Finance,9499,0,0,3,3,3,Yes,Travel_Rarely,13,8,6,Yes
+1433,56,Research & Development,Accountant,Life Sciences,6683,0,0,4,4,1,No,Rarely,23,7,0,Yes
+1434,35,Human Resources,Laboratory Technician,Technical Degree,13438,4,4,3,3,3,No,Travel_Rarely,15,2,5,No
+1435,54,Human Resources,Laboratory Technician,Medical,4847,17,15,4,4,1,Yes,Rarely,8,9,5,Yes
+1436,54,IT,Laboratory Technician,Human Resources,5565,20,6,3,1,2,Yes,Frequently,13,8,6,Yes
+1437,57,Finance,Sales Executive,Finance,9168,26,11,1,3,4,Yes,Rarely,5,8,5,No
+1438,33,Finance,Accountant,Human Resources,13927,3,0,4,1,4,No,Frequently,21,0,3,No
+1439,55,IT,Laboratory Technician,Life Sciences,12807,23,4,1,3,1,No,Frequently,9,2,3,Yes
+1440,36,Sales,Research Scientist,Finance,3618,5,1,2,1,3,Yes,Rarely,27,5,4,No
+1441,38,Sales,Research Scientist,Medical,14136,16,4,3,2,3,No,Travel_Rarely,24,6,1,No
+1442,60,Finance,Accountant,Marketing,2568,11,8,1,2,3,Yes,Rarely,20,4,4,No
+1443,33,Research & Development,Manager,Life Sciences,3073,6,4,1,2,3,No,Rarely,26,9,0,Yes
+1444,48,Research & Development,Software Engineer,Technical Degree,16327,20,14,1,4,1,No,Frequently,7,4,2,Yes
+1445,58,Finance,Human Resources,Marketing,15996,9,3,1,4,2,Yes,Rarely,12,0,3,No
+1446,26,Finance,Sales Executive,Life Sciences,9129,2,2,4,2,4,No,Rarely,20,6,3,No
+1447,50,Finance,Manager,Human Resources,12143,15,14,1,1,3,No,Travel_Rarely,30,0,4,No
+1448,36,IT,Laboratory Technician,Technical Degree,13777,9,9,3,4,3,Yes,Frequently,23,8,4,No
+1449,30,IT,Software Engineer,Finance,14968,8,7,4,3,3,No,Rarely,7,4,1,Yes
+1450,25,Sales,Manager,Life Sciences,17032,0,0,3,3,1,No,Travel_Rarely,28,8,5,Yes
+1451,51,Finance,Manager,Human Resources,9543,1,1,3,2,1,Yes,Frequently,6,4,1,No
+1452,26,Human Resources,Manager,Medical,5964,3,3,2,2,3,No,Rarely,3,8,3,Yes
+1453,52,Research & Development,Manager,Medical,7156,16,14,3,3,2,No,Frequently,9,8,4,No
+1454,36,IT,Software Engineer,Finance,8306,2,2,4,3,2,No,Travel_Rarely,4,7,6,No
+1455,32,Research & Development,Laboratory Technician,Finance,4712,0,0,1,1,2,No,Frequently,1,2,6,No
+1456,47,Human Resources,Accountant,Human Resources,8413,22,13,2,4,4,No,Rarely,25,5,6,Yes
+1457,31,Sales,Software Engineer,Medical,11351,8,6,1,1,1,No,Rarely,2,9,2,Yes
+1458,35,IT,Manager,Technical Degree,8203,5,3,2,3,1,Yes,Frequently,15,4,4,Yes
+1459,22,Research & Development,Human Resources,Marketing,6655,0,0,3,4,1,Yes,Rarely,3,2,1,No
+1460,55,Human Resources,Software Engineer,Human Resources,2595,28,8,4,2,3,Yes,Rarely,8,2,5,Yes
+1461,43,Sales,Laboratory Technician,Human Resources,10144,0,0,2,4,1,No,Rarely,14,2,2,Yes
+1462,24,IT,Research Scientist,Marketing,17686,1,0,3,3,3,No,Frequently,26,7,4,No
+1463,53,Sales,Accountant,Finance,13864,3,0,1,1,1,No,Rarely,2,7,4,No
+1464,28,IT,Software Engineer,Life Sciences,7620,3,1,4,1,3,Yes,Travel_Rarely,12,2,1,No
+1465,35,Finance,Accountant,Life Sciences,16997,8,3,4,4,3,No,Rarely,26,9,4,No
+1466,23,IT,Accountant,Life Sciences,3558,0,0,2,3,3,Yes,Travel_Rarely,21,3,2,Yes
+1467,29,Research & Development,Software Engineer,Marketing,16785,1,0,2,1,3,Yes,Rarely,23,6,1,Yes
+1468,40,Human Resources,Software Engineer,Technical Degree,4063,9,3,3,2,3,No,Travel_Rarely,7,6,6,No
+1469,31,Sales,Research Scientist,Medical,13919,0,0,4,3,1,No,Frequently,23,3,4,Yes
+1470,34,Research & Development,Manager,Medical,8174,10,0,2,2,4,No,Rarely,19,3,5,No
+1471,43,Finance,Laboratory Technician,Medical,16698,4,1,1,4,2,No,Travel_Rarely,8,0,3,Yes
+1472,23,Human Resources,Software Engineer,Finance,3518,1,1,2,1,2,No,Frequently,3,6,3,Yes
+1473,29,Research & Development,Accountant,Medical,3479,3,2,1,4,1,No,Rarely,10,5,5,No
+1474,54,Finance,Manager,Finance,16025,11,4,1,3,4,No,Travel_Rarely,15,5,5,No
+1475,58,Sales,Manager,Finance,6309,11,11,2,2,4,Yes,Rarely,21,2,1,No
+1476,40,Sales,Sales Executive,Technical Degree,15755,6,0,4,1,4,No,Frequently,5,8,3,No
+1477,38,Research & Development,Manager,Life Sciences,16667,1,0,4,1,2,Yes,Frequently,12,2,0,No
+1478,45,Research & Development,Human Resources,Finance,5565,10,10,4,2,4,Yes,Travel_Rarely,8,3,0,No
+1479,28,IT,Laboratory Technician,Finance,15377,3,1,1,3,4,No,Frequently,13,4,6,No
+1480,49,Human Resources,Software Engineer,Life Sciences,3302,22,13,2,3,2,No,Frequently,29,2,3,No
+1481,57,IT,Human Resources,Technical Degree,16774,4,2,1,3,3,Yes,Travel_Rarely,2,4,5,No
+1482,38,Research & Development,Human Resources,Marketing,17169,9,2,4,2,4,No,Travel_Rarely,25,5,6,No
+1483,51,Finance,Accountant,Life Sciences,4056,29,11,3,1,4,Yes,Frequently,26,5,4,Yes
+1484,22,Human Resources,Manager,Human Resources,15464,0,0,1,1,2,Yes,Travel_Rarely,9,0,6,Yes
+1485,42,Sales,Human Resources,Marketing,17314,6,2,2,2,4,No,Travel_Rarely,23,5,4,No
+1486,37,Research & Development,Sales Executive,Human Resources,11549,4,0,2,4,2,Yes,Travel_Rarely,12,9,5,Yes
+1487,47,Human Resources,Software Engineer,Life Sciences,3040,18,14,4,3,1,No,Travel_Rarely,10,2,6,No
+1488,56,Human Resources,Laboratory Technician,Life Sciences,11555,25,4,4,1,4,No,Rarely,6,9,3,No
+1489,41,Sales,Manager,Finance,16435,1,1,3,2,1,No,Travel_Rarely,26,2,3,Yes
+1490,27,Human Resources,Research Scientist,Marketing,5935,1,1,2,4,4,Yes,Frequently,20,5,5,Yes
+1491,26,IT,Software Engineer,Technical Degree,4460,1,1,4,1,3,Yes,Travel_Rarely,16,6,2,Yes
+1492,35,Research & Development,Sales Executive,Human Resources,11793,11,0,1,4,4,No,Travel_Rarely,21,3,6,Yes
+1493,53,Human Resources,Manager,Finance,6835,2,2,1,4,2,Yes,Rarely,6,7,6,Yes
+1494,59,Finance,Sales Executive,Technical Degree,4877,15,10,4,1,1,Yes,Rarely,6,7,0,No
+1495,33,Finance,Research Scientist,Marketing,7291,10,5,2,2,3,No,Rarely,13,6,6,No
+1496,34,Finance,Human Resources,Human Resources,2872,7,5,1,1,1,No,Frequently,20,1,3,Yes
+1497,51,Finance,Manager,Technical Degree,2624,24,1,4,4,2,No,Travel_Rarely,5,2,1,No
+1498,39,Research & Development,Human Resources,Finance,6849,9,4,1,2,1,Yes,Frequently,23,0,0,Yes
+1499,45,IT,Accountant,Medical,14703,13,13,4,3,1,Yes,Travel_Rarely,19,8,5,No
+1500,28,Sales,Software Engineer,Marketing,3262,1,1,4,2,2,Yes,Travel_Rarely,28,4,6,No
